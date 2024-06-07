@@ -1,0 +1,3969 @@
+CustomerID,ProductTake,PredictedTarget,ProbabilityValue
+200001.0,0,Standard,0.64
+200003.0,0,Super Deluxe,0.78
+200004.0,0,Super Deluxe,0.78
+200005.0,0,Super Deluxe,0.78
+200006.0,0,Super Deluxe,0.78
+200007.0,0,Super Deluxe,0.78
+200008.0,0,Standard,0.64
+200009.0,0,Standard,0.64
+200010.0,0,Super Deluxe,0.78
+200011.0,0,Standard,0.64
+200012.0,0,Super Deluxe,0.78
+200013.0,0,Super Deluxe,0.78
+200015.0,0,Standard,0.64
+200016.0,0,Super Deluxe,0.78
+200017.0,0,Super Deluxe,0.78
+200018.0,0,Basic,0.69
+200019.0,0,Super Deluxe,0.78
+200020.0,0,Standard,0.64
+200022.0,0,Standard,0.64
+200023.0,0,Super Deluxe,0.78
+200025.0,0,Standard,0.64
+200027.0,0,Standard,0.64
+200028.0,0,Standard,0.64
+200029.0,0,Standard,0.64
+200030.0,0,Super Deluxe,0.78
+200031.0,0,Standard,0.64
+200032.0,0,Super Deluxe,0.78
+200035.0,0,Super Deluxe,0.78
+200037.0,0,Super Deluxe,0.78
+200038.0,0,Super Deluxe,0.78
+200039.0,0,Standard,0.64
+200040.0,0,Super Deluxe,0.78
+200041.0,0,Super Deluxe,0.78
+200043.0,0,Standard,0.64
+200044.0,0,Standard,0.64
+200046.0,0,Standard,0.64
+200047.0,0,Super Deluxe,0.78
+200048.0,0,Standard,0.64
+200049.0,0,Super Deluxe,0.78
+200052.0,0,Standard,0.64
+200053.0,0,Standard,0.64
+200054.0,0,Standard,0.64
+200055.0,0,Standard,0.64
+200056.0,0,Standard,0.64
+200057.0,0,Super Deluxe,0.78
+200058.0,0,Standard,0.64
+200059.0,0,Standard,0.64
+200060.0,0,Standard,0.64
+200061.0,0,Standard,0.64
+200062.0,0,Standard,0.64
+200063.0,0,Standard,0.64
+200064.0,0,Standard,0.64
+200065.0,0,Basic,0.69
+200066.0,0,Standard,0.64
+200067.0,0,Standard,0.64
+200068.0,0,Super Deluxe,0.78
+200070.0,0,Standard,0.64
+200071.0,0,Super Deluxe,0.78
+200072.0,0,Super Deluxe,0.78
+200073.0,0,Standard,0.64
+200074.0,0,Standard,0.64
+200075.0,0,Standard,0.64
+200076.0,0,Standard,0.64
+200077.0,0,Standard,0.64
+200078.0,0,Standard,0.64
+200079.0,0,Standard,0.64
+200080.0,0,Standard,0.64
+200081.0,0,Super Deluxe,0.78
+200082.0,0,Standard,0.64
+200083.0,0,Standard,0.64
+200084.0,0,Standard,0.64
+200085.0,0,Standard,0.64
+200086.0,0,Super Deluxe,0.78
+200087.0,0,Super Deluxe,0.78
+200088.0,0,Standard,0.64
+200090.0,0,Basic,0.69
+200091.0,0,Standard,0.64
+200092.0,0,Standard,0.64
+200093.0,0,Standard,0.64
+200094.0,0,Standard,0.64
+200095.0,0,Standard,0.64
+200096.0,0,Standard,0.64
+200097.0,0,Standard,0.64
+200098.0,0,Basic,0.69
+200099.0,0,Standard,0.64
+200101.0,0,Super Deluxe,0.78
+200103.0,0,Standard,0.64
+200104.0,0,Standard,0.64
+200105.0,0,Standard,0.64
+200106.0,0,Standard,0.64
+200108.0,0,Super Deluxe,0.78
+200109.0,0,Super Deluxe,0.78
+200110.0,0,Standard,0.64
+200112.0,0,Basic,0.69
+200113.0,0,Super Deluxe,0.78
+200114.0,0,Standard,0.64
+200115.0,0,Standard,0.64
+200116.0,0,Standard,0.64
+200117.0,0,Standard,0.64
+200118.0,0,Super Deluxe,0.78
+200119.0,0,Basic,0.69
+200120.0,0,Super Deluxe,0.78
+200121.0,0,Standard,0.64
+200123.0,0,Standard,0.64
+200125.0,0,Super Deluxe,0.78
+200128.0,0,Super Deluxe,0.78
+200129.0,0,Standard,0.64
+200130.0,0,Super Deluxe,0.78
+200131.0,0,Standard,0.64
+200133.0,0,Standard,0.64
+200134.0,0,Super Deluxe,0.78
+200135.0,0,Standard,0.64
+200137.0,0,Standard,0.64
+200138.0,0,Standard,0.64
+200139.0,0,Standard,0.64
+200141.0,0,Super Deluxe,0.78
+200142.0,0,Standard,0.64
+200143.0,0,Super Deluxe,0.78
+200144.0,0,Standard,0.64
+200145.0,0,Super Deluxe,0.78
+200146.0,0,Super Deluxe,0.78
+200147.0,0,Basic,0.69
+200148.0,0,Super Deluxe,0.78
+200149.0,0,Super Deluxe,0.78
+200150.0,0,Standard,0.64
+200151.0,0,Standard,0.64
+200152.0,0,Standard,0.64
+200153.0,0,Standard,0.64
+200154.0,0,Standard,0.64
+200155.0,0,Standard,0.64
+200156.0,0,Standard,0.64
+200157.0,0,Super Deluxe,0.78
+200158.0,0,Standard,0.64
+200159.0,0,Super Deluxe,0.78
+200160.0,0,Super Deluxe,0.78
+200161.0,0,Super Deluxe,0.78
+200162.0,0,Super Deluxe,0.78
+200163.0,0,Standard,0.64
+200164.0,0,Super Deluxe,0.78
+200165.0,0,Standard,0.64
+200166.0,0,Super Deluxe,0.78
+200167.0,0,Standard,0.64
+200168.0,0,Standard,0.64
+200169.0,0,Super Deluxe,0.78
+200170.0,0,Super Deluxe,0.78
+200172.0,0,Super Deluxe,0.78
+200173.0,0,Standard,0.64
+200174.0,0,Standard,0.64
+200175.0,0,Super Deluxe,0.78
+200176.0,0,Super Deluxe,0.78
+200178.0,0,Standard,0.64
+200179.0,0,Super Deluxe,0.78
+200180.0,0,Super Deluxe,0.78
+200181.0,0,Super Deluxe,0.78
+200183.0,0,Super Deluxe,0.78
+200184.0,0,Standard,0.64
+200185.0,0,Super Deluxe,0.78
+200186.0,0,Standard,0.64
+200187.0,0,Standard,0.64
+200188.0,0,Standard,0.64
+200189.0,0,Basic,0.69
+200190.0,0,Standard,0.64
+200191.0,0,Super Deluxe,0.78
+200193.0,0,Super Deluxe,0.78
+200194.0,0,Basic,0.69
+200195.0,0,Super Deluxe,0.78
+200196.0,0,Standard,0.64
+200197.0,0,Standard,0.64
+200198.0,0,Standard,0.64
+200199.0,0,Standard,0.64
+200200.0,0,Standard,0.64
+200201.0,0,Standard,0.64
+200202.0,0,Super Deluxe,0.78
+200203.0,0,Standard,0.64
+200206.0,0,Super Deluxe,0.78
+200207.0,0,Super Deluxe,0.78
+200208.0,0,Standard,0.64
+200209.0,0,Standard,0.64
+200211.0,0,Standard,0.64
+200212.0,0,Standard,0.64
+200213.0,0,Standard,0.64
+200215.0,0,Standard,0.64
+200218.0,0,Standard,0.64
+200219.0,0,Standard,0.64
+200220.0,0,Standard,0.64
+200221.0,0,Super Deluxe,0.78
+200222.0,0,Standard,0.64
+200223.0,0,Standard,0.64
+200224.0,0,Standard,0.64
+200225.0,0,Super Deluxe,0.78
+200226.0,0,Super Deluxe,0.78
+200227.0,0,Standard,0.64
+200228.0,0,Standard,0.64
+200230.0,0,Super Deluxe,0.78
+200231.0,0,Standard,0.64
+200232.0,0,Super Deluxe,0.78
+200233.0,0,Standard,0.64
+200235.0,0,Basic,0.69
+200237.0,0,Standard,0.64
+200238.0,0,Super Deluxe,0.78
+200240.0,0,Super Deluxe,0.78
+200241.0,0,Standard,0.64
+200242.0,0,Standard,0.64
+200243.0,0,Standard,0.64
+200244.0,0,Standard,0.64
+200245.0,0,Standard,0.64
+200246.0,0,Super Deluxe,0.78
+200247.0,0,Standard,0.64
+200248.0,0,Super Deluxe,0.78
+200249.0,0,Standard,0.64
+200251.0,0,Standard,0.64
+200252.0,0,Super Deluxe,0.78
+200253.0,0,Standard,0.64
+200254.0,0,Standard,0.64
+200255.0,0,Standard,0.64
+200256.0,0,Super Deluxe,0.78
+200257.0,0,Standard,0.64
+200258.0,0,Super Deluxe,0.78
+200260.0,0,Super Deluxe,0.78
+200261.0,0,Standard,0.64
+200262.0,0,Standard,0.64
+200263.0,0,Basic,0.69
+200265.0,0,Standard,0.64
+200266.0,0,Standard,0.64
+200267.0,0,Standard,0.64
+200268.0,0,Basic,0.69
+200269.0,0,Super Deluxe,0.78
+200270.0,0,Standard,0.64
+200272.0,0,Super Deluxe,0.78
+200273.0,0,Standard,0.64
+200274.0,0,Super Deluxe,0.78
+200275.0,0,Standard,0.64
+200276.0,0,Standard,0.64
+200277.0,0,Standard,0.64
+200278.0,0,Standard,0.64
+200279.0,0,Standard,0.64
+200280.0,0,Basic,0.69
+200281.0,0,Standard,0.64
+200282.0,0,Standard,0.64
+200283.0,0,Standard,0.64
+200284.0,0,Standard,0.64
+200285.0,0,Super Deluxe,0.78
+200287.0,0,Standard,0.64
+200289.0,0,Super Deluxe,0.78
+200290.0,0,Standard,0.64
+200291.0,0,Standard,0.64
+200292.0,0,Super Deluxe,0.78
+200294.0,0,Super Deluxe,0.78
+200295.0,0,Basic,0.69
+200297.0,0,Standard,0.64
+200298.0,0,Super Deluxe,0.78
+200299.0,0,Standard,0.64
+200300.0,0,Basic,0.69
+200301.0,0,Super Deluxe,0.78
+200302.0,0,Standard,0.64
+200303.0,0,Standard,0.64
+200304.0,0,Standard,0.64
+200305.0,0,Standard,0.64
+200306.0,0,Standard,0.64
+200307.0,0,Standard,0.64
+200308.0,0,Standard,0.64
+200309.0,0,Super Deluxe,0.78
+200310.0,0,Standard,0.64
+200311.0,0,Standard,0.64
+200312.0,0,Super Deluxe,0.78
+200313.0,0,Standard,0.64
+200314.0,0,Basic,0.69
+200315.0,0,Super Deluxe,0.78
+200316.0,0,Basic,0.69
+200318.0,0,Super Deluxe,0.78
+200319.0,0,Standard,0.64
+200320.0,0,Standard,0.64
+200321.0,0,Standard,0.64
+200322.0,0,Standard,0.64
+200324.0,0,Standard,0.64
+200325.0,0,Standard,0.64
+200326.0,0,Standard,0.64
+200328.0,0,Standard,0.64
+200329.0,0,Standard,0.64
+200330.0,0,Standard,0.64
+200331.0,0,Standard,0.64
+200332.0,0,Standard,0.64
+200333.0,0,Standard,0.64
+200334.0,0,Standard,0.64
+200335.0,0,Standard,0.64
+200337.0,0,Super Deluxe,0.78
+200338.0,0,Standard,0.64
+200339.0,0,Standard,0.64
+200340.0,0,Standard,0.64
+200341.0,0,Standard,0.64
+200342.0,0,Standard,0.64
+200343.0,0,Standard,0.64
+200344.0,0,Standard,0.64
+200345.0,0,Super Deluxe,0.78
+200346.0,0,Standard,0.64
+200347.0,0,Standard,0.64
+200348.0,0,Basic,0.69
+200349.0,0,Standard,0.64
+200350.0,0,Super Deluxe,0.78
+200351.0,0,Super Deluxe,0.78
+200352.0,0,Standard,0.64
+200353.0,0,Standard,0.64
+200354.0,0,Standard,0.64
+200355.0,0,Standard,0.64
+200356.0,0,Standard,0.64
+200358.0,0,Standard,0.64
+200359.0,0,Standard,0.64
+200360.0,0,Standard,0.64
+200361.0,0,Super Deluxe,0.78
+200362.0,0,Super Deluxe,0.78
+200364.0,0,Super Deluxe,0.78
+200365.0,0,Standard,0.64
+200367.0,0,Standard,0.64
+200369.0,0,Super Deluxe,0.78
+200371.0,0,Super Deluxe,0.78
+200372.0,0,Standard,0.64
+200373.0,0,Super Deluxe,0.78
+200374.0,0,Standard,0.64
+200375.0,0,Standard,0.64
+200376.0,0,Standard,0.64
+200377.0,0,Super Deluxe,0.78
+200379.0,0,Basic,0.69
+200380.0,0,Standard,0.64
+200381.0,0,Super Deluxe,0.78
+200383.0,0,Super Deluxe,0.78
+200384.0,0,Standard,0.64
+200386.0,0,Super Deluxe,0.78
+200387.0,0,Standard,0.64
+200388.0,0,Super Deluxe,0.78
+200389.0,0,Standard,0.64
+200390.0,0,Basic,0.69
+200391.0,0,Standard,0.64
+200392.0,0,Standard,0.64
+200393.0,0,Standard,0.64
+200394.0,0,Standard,0.64
+200395.0,0,Super Deluxe,0.78
+200396.0,0,Standard,0.64
+200397.0,0,Standard,0.64
+200398.0,0,Standard,0.64
+200399.0,0,Super Deluxe,0.78
+200400.0,0,Standard,0.64
+200401.0,0,Basic,0.69
+200402.0,0,Standard,0.64
+200403.0,0,Standard,0.64
+200404.0,0,Standard,0.64
+200406.0,0,Standard,0.64
+200407.0,0,Super Deluxe,0.78
+200408.0,0,Basic,0.69
+200409.0,0,Standard,0.64
+200410.0,0,Standard,0.64
+200411.0,0,Standard,0.64
+200412.0,0,Standard,0.64
+200413.0,0,Standard,0.64
+200416.0,0,Super Deluxe,0.78
+200417.0,0,Standard,0.64
+200418.0,0,Super Deluxe,0.78
+200419.0,0,Super Deluxe,0.78
+200420.0,0,Standard,0.64
+200423.0,0,Standard,0.64
+200424.0,0,Basic,0.69
+200425.0,0,Basic,0.69
+200426.0,0,Super Deluxe,0.78
+200427.0,0,Standard,0.64
+200428.0,0,Standard,0.64
+200429.0,0,Basic,0.69
+200430.0,0,Super Deluxe,0.78
+200431.0,0,Standard,0.64
+200432.0,0,Super Deluxe,0.78
+200433.0,0,Standard,0.64
+200434.0,0,Standard,0.64
+200437.0,0,Super Deluxe,0.78
+200438.0,0,Standard,0.64
+200441.0,0,Super Deluxe,0.78
+200442.0,0,Standard,0.64
+200444.0,0,Standard,0.64
+200445.0,0,Basic,0.69
+200446.0,0,Standard,0.64
+200447.0,0,Standard,0.64
+200448.0,0,Basic,0.69
+200449.0,0,Super Deluxe,0.78
+200450.0,0,Standard,0.64
+200451.0,0,Standard,0.64
+200452.0,0,Standard,0.64
+200454.0,0,Standard,0.64
+200455.0,0,Basic,0.69
+200456.0,0,Standard,0.64
+200458.0,0,Standard,0.64
+200459.0,0,Standard,0.64
+200460.0,0,Standard,0.64
+200461.0,0,Standard,0.64
+200462.0,0,Standard,0.64
+200464.0,0,Standard,0.64
+200465.0,0,Standard,0.64
+200466.0,0,Basic,0.69
+200467.0,0,Standard,0.64
+200468.0,0,Standard,0.64
+200470.0,0,Super Deluxe,0.78
+200471.0,0,Standard,0.64
+200472.0,0,Standard,0.64
+200473.0,0,Standard,0.64
+200474.0,0,Super Deluxe,0.78
+200475.0,0,Standard,0.64
+200476.0,0,Super Deluxe,0.78
+200477.0,0,Standard,0.64
+200478.0,0,Super Deluxe,0.78
+200481.0,0,Super Deluxe,0.78
+200483.0,0,Standard,0.64
+200484.0,0,Standard,0.64
+200485.0,0,Super Deluxe,0.78
+200486.0,0,Standard,0.64
+200487.0,0,Super Deluxe,0.78
+200488.0,0,Standard,0.64
+200489.0,0,Basic,0.69
+200490.0,0,Super Deluxe,0.78
+200491.0,0,Standard,0.64
+200492.0,0,Basic,0.69
+200493.0,0,Standard,0.64
+200494.0,0,Super Deluxe,0.78
+200496.0,0,Super Deluxe,0.78
+200497.0,0,Standard,0.64
+200498.0,0,Super Deluxe,0.78
+200499.0,0,Standard,0.64
+200500.0,0,Standard,0.64
+200501.0,0,Super Deluxe,0.78
+200502.0,0,Standard,0.64
+200503.0,0,Super Deluxe,0.78
+200505.0,0,Super Deluxe,0.78
+200506.0,0,Standard,0.64
+200507.0,0,Standard,0.64
+200508.0,0,Standard,0.64
+200509.0,0,Standard,0.64
+200510.0,0,Standard,0.64
+200511.0,0,Standard,0.64
+200512.0,0,Super Deluxe,0.78
+200515.0,0,Super Deluxe,0.78
+200516.0,0,Super Deluxe,0.78
+200517.0,0,Standard,0.64
+200518.0,0,Standard,0.64
+200519.0,0,Super Deluxe,0.78
+200520.0,0,Standard,0.64
+200521.0,0,Standard,0.64
+200522.0,0,Super Deluxe,0.78
+200523.0,0,Super Deluxe,0.78
+200524.0,0,Standard,0.64
+200526.0,0,Standard,0.64
+200527.0,0,Standard,0.64
+200529.0,0,Standard,0.64
+200530.0,0,Standard,0.64
+200531.0,0,Standard,0.64
+200532.0,0,Standard,0.64
+200533.0,0,Standard,0.64
+200534.0,0,Basic,0.69
+200535.0,0,Standard,0.64
+200536.0,0,Standard,0.64
+200537.0,0,Standard,0.64
+200538.0,0,Standard,0.64
+200539.0,0,Super Deluxe,0.78
+200541.0,0,Standard,0.64
+200542.0,0,Standard,0.64
+200543.0,0,Super Deluxe,0.78
+200544.0,0,Basic,0.69
+200545.0,0,Standard,0.64
+200546.0,0,Super Deluxe,0.78
+200548.0,0,Standard,0.64
+200549.0,0,Standard,0.64
+200550.0,0,Super Deluxe,0.78
+200551.0,0,Standard,0.64
+200552.0,0,Basic,0.69
+200553.0,0,Super Deluxe,0.78
+200554.0,0,Standard,0.64
+200555.0,0,Super Deluxe,0.78
+200556.0,0,Standard,0.64
+200557.0,0,Standard,0.64
+200558.0,0,Standard,0.64
+200559.0,0,Super Deluxe,0.78
+200560.0,0,Standard,0.64
+200561.0,0,Basic,0.69
+200563.0,0,Standard,0.64
+200564.0,0,Standard,0.64
+200565.0,0,Super Deluxe,0.78
+200567.0,0,Standard,0.64
+200569.0,0,Standard,0.64
+200570.0,0,Super Deluxe,0.78
+200571.0,0,Super Deluxe,0.78
+200572.0,0,Standard,0.64
+200574.0,0,Super Deluxe,0.78
+200575.0,0,Standard,0.64
+200576.0,0,Standard,0.64
+200577.0,0,Super Deluxe,0.78
+200578.0,0,Standard,0.64
+200579.0,0,Super Deluxe,0.78
+200580.0,0,Super Deluxe,0.78
+200581.0,0,Super Deluxe,0.78
+200582.0,0,Standard,0.64
+200583.0,0,Standard,0.64
+200584.0,0,Standard,0.64
+200586.0,0,Super Deluxe,0.78
+200587.0,0,Standard,0.64
+200588.0,0,Basic,0.69
+200590.0,0,Standard,0.64
+200592.0,0,Basic,0.69
+200593.0,0,Standard,0.64
+200594.0,0,Super Deluxe,0.78
+200596.0,0,Super Deluxe,0.78
+200597.0,0,Standard,0.64
+200599.0,0,Super Deluxe,0.78
+200600.0,0,Standard,0.64
+200601.0,0,Standard,0.64
+200602.0,0,Standard,0.64
+200603.0,0,Super Deluxe,0.78
+200604.0,0,Standard,0.64
+200605.0,0,Standard,0.64
+200606.0,0,Super Deluxe,0.78
+200609.0,0,Basic,0.69
+200610.0,0,Standard,0.64
+200611.0,0,Standard,0.64
+200612.0,0,Standard,0.64
+200613.0,0,Super Deluxe,0.78
+200615.0,0,Super Deluxe,0.78
+200616.0,0,Basic,0.69
+200617.0,0,Standard,0.64
+200618.0,0,Super Deluxe,0.78
+200619.0,0,Standard,0.64
+200620.0,0,Super Deluxe,0.78
+200621.0,0,Standard,0.64
+200622.0,0,Standard,0.64
+200623.0,0,Super Deluxe,0.78
+200624.0,0,Standard,0.64
+200625.0,0,Standard,0.64
+200626.0,0,Standard,0.64
+200627.0,0,Basic,0.69
+200628.0,0,Standard,0.64
+200629.0,0,Super Deluxe,0.78
+200630.0,0,Standard,0.64
+200631.0,0,Super Deluxe,0.78
+200632.0,0,Super Deluxe,0.78
+200633.0,0,Super Deluxe,0.78
+200634.0,0,Standard,0.64
+200635.0,0,Standard,0.64
+200637.0,0,Super Deluxe,0.78
+200638.0,0,Standard,0.64
+200639.0,0,Super Deluxe,0.78
+200640.0,0,Super Deluxe,0.78
+200641.0,0,Standard,0.64
+200642.0,0,Super Deluxe,0.78
+200643.0,0,Standard,0.64
+200644.0,0,Super Deluxe,0.78
+200646.0,0,Basic,0.69
+200647.0,0,Standard,0.64
+200648.0,0,Super Deluxe,0.78
+200649.0,0,Basic,0.69
+200650.0,0,Standard,0.64
+200651.0,0,Standard,0.64
+200652.0,0,Standard,0.64
+200653.0,0,Basic,0.69
+200654.0,0,Standard,0.64
+200655.0,0,Super Deluxe,0.78
+200657.0,0,Super Deluxe,0.78
+200658.0,0,Super Deluxe,0.78
+200659.0,0,Standard,0.64
+200661.0,0,Standard,0.64
+200664.0,0,Standard,0.64
+200665.0,0,Super Deluxe,0.78
+200668.0,0,Super Deluxe,0.78
+200670.0,0,Super Deluxe,0.78
+200671.0,0,Super Deluxe,0.78
+200672.0,0,Standard,0.64
+200673.0,0,Super Deluxe,0.78
+200674.0,0,Standard,0.64
+200675.0,0,Super Deluxe,0.78
+200676.0,0,Standard,0.64
+200677.0,0,Standard,0.64
+200678.0,0,Super Deluxe,0.78
+200679.0,0,Standard,0.64
+200680.0,0,Super Deluxe,0.78
+200681.0,0,Standard,0.64
+200682.0,0,Super Deluxe,0.78
+200684.0,0,Standard,0.64
+200685.0,0,Standard,0.64
+200686.0,0,Super Deluxe,0.78
+200687.0,0,Super Deluxe,0.78
+200690.0,0,Standard,0.64
+200691.0,0,Super Deluxe,0.78
+200692.0,0,Standard,0.64
+200694.0,0,Standard,0.64
+200696.0,0,Standard,0.64
+200697.0,0,Super Deluxe,0.78
+200698.0,0,Standard,0.64
+200699.0,0,Basic,0.69
+200701.0,0,Basic,0.69
+200702.0,0,Standard,0.64
+200703.0,0,Standard,0.64
+200704.0,0,Standard,0.64
+200705.0,0,Standard,0.64
+200707.0,0,Standard,0.64
+200708.0,0,Standard,0.64
+200710.0,0,Basic,0.69
+200712.0,0,Super Deluxe,0.78
+200713.0,0,Super Deluxe,0.78
+200714.0,0,Basic,0.69
+200715.0,0,Standard,0.64
+200716.0,0,Standard,0.64
+200717.0,0,Super Deluxe,0.78
+200718.0,0,Standard,0.64
+200719.0,0,Standard,0.64
+200721.0,0,Basic,0.69
+200722.0,0,Super Deluxe,0.78
+200723.0,0,Standard,0.64
+200724.0,0,Standard,0.64
+200726.0,0,Standard,0.64
+200727.0,0,Super Deluxe,0.78
+200728.0,0,Standard,0.64
+200729.0,0,Standard,0.64
+200730.0,0,Standard,0.64
+200733.0,0,Standard,0.64
+200734.0,0,Super Deluxe,0.78
+200735.0,0,Standard,0.64
+200736.0,0,Standard,0.64
+200737.0,0,Standard,0.64
+200738.0,0,Basic,0.69
+200739.0,0,Standard,0.64
+200740.0,0,Super Deluxe,0.78
+200741.0,0,Standard,0.64
+200742.0,0,Super Deluxe,0.78
+200743.0,0,Basic,0.69
+200745.0,0,Standard,0.64
+200746.0,0,Standard,0.64
+200747.0,0,Standard,0.64
+200750.0,0,Basic,0.69
+200751.0,0,Standard,0.64
+200753.0,0,Standard,0.64
+200754.0,0,Super Deluxe,0.78
+200755.0,0,Basic,0.69
+200756.0,0,Super Deluxe,0.78
+200757.0,0,Standard,0.64
+200758.0,0,Standard,0.64
+200759.0,0,Super Deluxe,0.78
+200760.0,0,Standard,0.64
+200763.0,0,Super Deluxe,0.78
+200764.0,0,Super Deluxe,0.78
+200765.0,0,Super Deluxe,0.78
+200766.0,0,Standard,0.64
+200767.0,0,Standard,0.64
+200768.0,0,Standard,0.64
+200769.0,0,Super Deluxe,0.78
+200770.0,0,Standard,0.64
+200771.0,0,Standard,0.64
+200772.0,0,Super Deluxe,0.78
+200773.0,0,Standard,0.64
+200774.0,0,Basic,0.69
+200775.0,0,Standard,0.64
+200778.0,0,Standard,0.64
+200781.0,0,Super Deluxe,0.78
+200782.0,0,Standard,0.64
+200783.0,0,Super Deluxe,0.78
+200784.0,0,Standard,0.64
+200785.0,0,Standard,0.64
+200786.0,0,Super Deluxe,0.78
+200787.0,0,Standard,0.64
+200788.0,0,Standard,0.64
+200790.0,0,Standard,0.64
+200793.0,0,Super Deluxe,0.78
+200794.0,0,Standard,0.64
+200795.0,0,Standard,0.64
+200799.0,0,Basic,0.69
+200802.0,0,Standard,0.64
+200803.0,0,Super Deluxe,0.78
+200804.0,0,Basic,0.69
+200805.0,0,Standard,0.64
+200806.0,0,Standard,0.64
+200807.0,0,Standard,0.64
+200808.0,0,Super Deluxe,0.78
+200809.0,0,Standard,0.64
+200810.0,0,Basic,0.69
+200811.0,0,Standard,0.64
+200812.0,0,Standard,0.64
+200814.0,0,Standard,0.64
+200815.0,0,Super Deluxe,0.78
+200816.0,0,Standard,0.64
+200817.0,0,Standard,0.64
+200818.0,0,Super Deluxe,0.78
+200819.0,0,Super Deluxe,0.78
+200820.0,0,Standard,0.64
+200821.0,0,Basic,0.69
+200822.0,0,Standard,0.64
+200823.0,0,Super Deluxe,0.78
+200824.0,0,Standard,0.64
+200825.0,0,Standard,0.64
+200826.0,0,Super Deluxe,0.78
+200827.0,0,Super Deluxe,0.78
+200830.0,0,Super Deluxe,0.78
+200832.0,0,Standard,0.64
+200833.0,0,Super Deluxe,0.78
+200834.0,0,Standard,0.64
+200835.0,0,Super Deluxe,0.78
+200837.0,0,Standard,0.64
+200839.0,0,Standard,0.64
+200840.0,0,Super Deluxe,0.78
+200841.0,0,Super Deluxe,0.78
+200843.0,0,Super Deluxe,0.78
+200844.0,0,Standard,0.64
+200845.0,0,Standard,0.64
+200846.0,0,Standard,0.64
+200847.0,0,Standard,0.64
+200848.0,0,Super Deluxe,0.78
+200850.0,0,Super Deluxe,0.78
+200851.0,0,Standard,0.64
+200852.0,0,Super Deluxe,0.78
+200853.0,0,Super Deluxe,0.78
+200854.0,0,Super Deluxe,0.78
+200855.0,0,Standard,0.64
+200856.0,0,Super Deluxe,0.78
+200858.0,0,Standard,0.64
+200859.0,0,Super Deluxe,0.78
+200861.0,0,Basic,0.69
+200862.0,0,Super Deluxe,0.78
+200863.0,0,Super Deluxe,0.78
+200865.0,0,Standard,0.64
+200866.0,0,Standard,0.64
+200867.0,0,Basic,0.69
+200868.0,0,Super Deluxe,0.78
+200869.0,0,Standard,0.64
+200870.0,0,Standard,0.64
+200872.0,0,Standard,0.64
+200873.0,0,Super Deluxe,0.78
+200874.0,0,Standard,0.64
+200875.0,0,Standard,0.64
+200876.0,0,Super Deluxe,0.78
+200877.0,0,Standard,0.64
+200878.0,0,Standard,0.64
+200879.0,0,Standard,0.64
+200880.0,0,Super Deluxe,0.78
+200881.0,0,Standard,0.64
+200882.0,0,Standard,0.64
+200883.0,0,Super Deluxe,0.78
+200884.0,0,Standard,0.64
+200885.0,0,Standard,0.64
+200886.0,0,Super Deluxe,0.78
+200887.0,0,Standard,0.64
+200888.0,0,Standard,0.64
+200889.0,0,Super Deluxe,0.78
+200890.0,0,Standard,0.64
+200891.0,0,Super Deluxe,0.78
+200893.0,0,Super Deluxe,0.78
+200894.0,0,Basic,0.69
+200895.0,0,Standard,0.64
+200896.0,0,Standard,0.64
+200897.0,0,Standard,0.64
+200898.0,0,Standard,0.64
+200899.0,0,Standard,0.64
+200900.0,0,Super Deluxe,0.78
+200901.0,0,Super Deluxe,0.78
+200902.0,0,Super Deluxe,0.78
+200903.0,0,Standard,0.64
+200904.0,0,Standard,0.64
+200905.0,0,Basic,0.69
+200906.0,0,Super Deluxe,0.78
+200907.0,0,Standard,0.64
+200908.0,0,Standard,0.64
+200909.0,0,Super Deluxe,0.78
+200910.0,0,Super Deluxe,0.78
+200912.0,0,Super Deluxe,0.78
+200914.0,0,Basic,0.69
+200916.0,0,Standard,0.64
+200917.0,0,Standard,0.64
+200918.0,0,Standard,0.64
+200919.0,0,Standard,0.64
+200920.0,0,Standard,0.64
+200921.0,0,Super Deluxe,0.78
+200922.0,0,Standard,0.64
+200923.0,0,Standard,0.64
+200924.0,0,Super Deluxe,0.78
+200925.0,0,Standard,0.64
+200926.0,0,Standard,0.64
+200927.0,0,Standard,0.64
+200929.0,0,Super Deluxe,0.78
+200930.0,0,Super Deluxe,0.78
+200931.0,0,Standard,0.64
+200933.0,0,Super Deluxe,0.78
+200934.0,0,Super Deluxe,0.78
+200935.0,0,Standard,0.64
+200936.0,0,Standard,0.64
+200937.0,0,Basic,0.69
+200938.0,0,Super Deluxe,0.78
+200941.0,0,Standard,0.64
+200942.0,0,Standard,0.64
+200943.0,0,Super Deluxe,0.78
+200944.0,0,Standard,0.64
+200945.0,0,Basic,0.69
+200948.0,0,Standard,0.64
+200949.0,0,Standard,0.64
+200950.0,0,Standard,0.64
+200951.0,0,Standard,0.64
+200954.0,0,Basic,0.69
+200955.0,0,Standard,0.64
+200956.0,0,Standard,0.64
+200957.0,0,Super Deluxe,0.78
+200958.0,0,Standard,0.64
+200959.0,0,Standard,0.64
+200960.0,0,Standard,0.64
+200961.0,0,Standard,0.64
+200962.0,0,Basic,0.69
+200963.0,0,Standard,0.64
+200964.0,0,Standard,0.64
+200965.0,0,Super Deluxe,0.78
+200967.0,0,Super Deluxe,0.78
+200968.0,0,Standard,0.64
+200969.0,0,Standard,0.64
+200970.0,0,Super Deluxe,0.78
+200971.0,0,Basic,0.69
+200972.0,0,Super Deluxe,0.78
+200973.0,0,Standard,0.64
+200974.0,0,Standard,0.64
+200976.0,0,Basic,0.69
+200977.0,0,Super Deluxe,0.78
+200978.0,0,Standard,0.64
+200979.0,0,Standard,0.64
+200982.0,0,Super Deluxe,0.78
+200983.0,0,Standard,0.64
+200984.0,0,Standard,0.64
+200986.0,0,Standard,0.64
+200987.0,0,Standard,0.64
+200988.0,0,Standard,0.64
+200989.0,0,Super Deluxe,0.78
+200990.0,0,Standard,0.64
+200991.0,0,Standard,0.64
+200992.0,0,Standard,0.64
+200993.0,0,Standard,0.64
+200994.0,0,Basic,0.69
+200995.0,0,Standard,0.64
+200996.0,0,Standard,0.64
+200998.0,0,Super Deluxe,0.78
+200999.0,0,Basic,0.69
+201000.0,0,Super Deluxe,0.78
+201001.0,0,Super Deluxe,0.78
+201002.0,0,Standard,0.64
+201003.0,0,Super Deluxe,0.78
+201004.0,0,Super Deluxe,0.78
+201005.0,0,Standard,0.64
+201008.0,0,Basic,0.69
+201009.0,0,Standard,0.64
+201010.0,0,Basic,0.69
+201011.0,0,Standard,0.64
+201013.0,0,Standard,0.64
+201014.0,0,Basic,0.69
+201015.0,0,Super Deluxe,0.78
+201017.0,0,Super Deluxe,0.78
+201018.0,0,Standard,0.64
+201019.0,0,Standard,0.64
+201020.0,0,Super Deluxe,0.78
+201022.0,0,Super Deluxe,0.78
+201023.0,0,Super Deluxe,0.78
+201024.0,0,Basic,0.69
+201025.0,0,Standard,0.64
+201026.0,0,Standard,0.64
+201027.0,0,Super Deluxe,0.78
+201028.0,0,Super Deluxe,0.78
+201029.0,0,Standard,0.64
+201030.0,0,Standard,0.64
+201034.0,0,Standard,0.64
+201035.0,0,Super Deluxe,0.78
+201037.0,0,Standard,0.64
+201038.0,0,Standard,0.64
+201040.0,0,Standard,0.64
+201041.0,0,Standard,0.64
+201042.0,0,Super Deluxe,0.78
+201043.0,0,Basic,0.69
+201044.0,0,Standard,0.64
+201045.0,0,Super Deluxe,0.78
+201046.0,0,Super Deluxe,0.78
+201047.0,0,Standard,0.64
+201048.0,0,Standard,0.64
+201049.0,0,Standard,0.64
+201050.0,0,Super Deluxe,0.78
+201051.0,0,Standard,0.64
+201052.0,0,Super Deluxe,0.78
+201053.0,0,Standard,0.64
+201054.0,0,Standard,0.64
+201055.0,0,Basic,0.69
+201059.0,0,Super Deluxe,0.78
+201061.0,0,Super Deluxe,0.78
+201062.0,0,Standard,0.64
+201063.0,0,Standard,0.64
+201064.0,0,Super Deluxe,0.78
+201065.0,0,Standard,0.64
+201066.0,0,Super Deluxe,0.78
+201067.0,0,Standard,0.64
+201069.0,0,Super Deluxe,0.78
+201070.0,0,Standard,0.64
+201071.0,0,Standard,0.64
+201072.0,0,Super Deluxe,0.78
+201073.0,0,Standard,0.64
+201074.0,0,Standard,0.64
+201075.0,0,Standard,0.64
+201076.0,0,Basic,0.69
+201078.0,0,Basic,0.69
+201079.0,0,Standard,0.64
+201080.0,0,Basic,0.69
+201081.0,0,Standard,0.64
+201082.0,0,Standard,0.64
+201084.0,0,Standard,0.64
+201086.0,0,Basic,0.69
+201087.0,0,Super Deluxe,0.78
+201088.0,0,Super Deluxe,0.78
+201089.0,0,Standard,0.64
+201090.0,0,Standard,0.64
+201091.0,0,Standard,0.64
+201092.0,0,Super Deluxe,0.78
+201093.0,0,Standard,0.64
+201094.0,0,Standard,0.64
+201095.0,0,Standard,0.64
+201096.0,0,Basic,0.69
+201097.0,0,Super Deluxe,0.78
+201098.0,0,Standard,0.64
+201099.0,0,Standard,0.64
+201100.0,0,Super Deluxe,0.78
+201101.0,0,Standard,0.64
+201102.0,0,Super Deluxe,0.78
+201103.0,0,Standard,0.64
+201104.0,0,Super Deluxe,0.78
+201105.0,0,Standard,0.64
+201107.0,0,Standard,0.64
+201108.0,0,Super Deluxe,0.78
+201109.0,0,Standard,0.64
+201113.0,0,Standard,0.64
+201114.0,0,Super Deluxe,0.78
+201115.0,0,Super Deluxe,0.78
+201116.0,0,Standard,0.64
+201117.0,0,Standard,0.64
+201118.0,0,Super Deluxe,0.78
+201119.0,0,Standard,0.64
+201120.0,0,Standard,0.64
+201121.0,0,Standard,0.64
+201122.0,0,Super Deluxe,0.78
+201123.0,0,Standard,0.64
+201124.0,0,Standard,0.64
+201125.0,0,Standard,0.64
+201126.0,0,Standard,0.64
+201127.0,0,Super Deluxe,0.78
+201128.0,0,Standard,0.64
+201129.0,0,Standard,0.64
+201130.0,0,Standard,0.64
+201131.0,0,Standard,0.64
+201132.0,0,Standard,0.64
+201133.0,0,Super Deluxe,0.78
+201134.0,0,Super Deluxe,0.78
+201135.0,0,Basic,0.69
+201137.0,0,Super Deluxe,0.78
+201138.0,0,Basic,0.69
+201139.0,0,Super Deluxe,0.78
+201140.0,0,Standard,0.64
+201141.0,0,Super Deluxe,0.78
+201142.0,0,Standard,0.64
+201143.0,0,Standard,0.64
+201144.0,0,Standard,0.64
+201145.0,0,Standard,0.64
+201146.0,0,Standard,0.64
+201147.0,0,Super Deluxe,0.78
+201148.0,0,Standard,0.64
+201149.0,0,Super Deluxe,0.78
+201150.0,0,Standard,0.64
+201151.0,0,Standard,0.64
+201152.0,0,Super Deluxe,0.78
+201154.0,0,Standard,0.64
+201155.0,0,Standard,0.64
+201156.0,0,Standard,0.64
+201157.0,0,Standard,0.64
+201158.0,0,Standard,0.64
+201159.0,0,Standard,0.64
+201160.0,0,Standard,0.64
+201161.0,0,Standard,0.64
+201163.0,0,Super Deluxe,0.78
+201164.0,0,Standard,0.64
+201165.0,0,Standard,0.64
+201166.0,0,Basic,0.69
+201168.0,0,Super Deluxe,0.78
+201169.0,0,Super Deluxe,0.78
+201170.0,0,Super Deluxe,0.78
+201172.0,0,Standard,0.64
+201173.0,0,Standard,0.64
+201174.0,0,Standard,0.64
+201175.0,0,Standard,0.64
+201176.0,0,Basic,0.69
+201177.0,0,Standard,0.64
+201178.0,0,Super Deluxe,0.78
+201179.0,0,Standard,0.64
+201180.0,0,Super Deluxe,0.78
+201181.0,0,Basic,0.69
+201182.0,0,Standard,0.64
+201183.0,0,Standard,0.64
+201184.0,0,Basic,0.69
+201185.0,0,Basic,0.69
+201187.0,0,Standard,0.64
+201188.0,0,Standard,0.64
+201189.0,0,Standard,0.64
+201190.0,0,Standard,0.64
+201191.0,0,Standard,0.64
+201192.0,0,Super Deluxe,0.78
+201193.0,0,Super Deluxe,0.78
+201194.0,0,Basic,0.69
+201195.0,0,Basic,0.69
+201196.0,0,Standard,0.64
+201197.0,0,Super Deluxe,0.78
+201198.0,0,Standard,0.64
+201199.0,0,Standard,0.64
+201200.0,0,Super Deluxe,0.78
+201202.0,0,Super Deluxe,0.78
+201203.0,0,Standard,0.64
+201206.0,0,Super Deluxe,0.78
+201207.0,0,Super Deluxe,0.78
+201208.0,0,Standard,0.64
+201209.0,0,Standard,0.64
+201210.0,0,Super Deluxe,0.78
+201211.0,0,Standard,0.64
+201212.0,0,Super Deluxe,0.78
+201214.0,0,Standard,0.64
+201215.0,0,Super Deluxe,0.78
+201216.0,0,Standard,0.64
+201217.0,0,Super Deluxe,0.78
+201218.0,0,Standard,0.64
+201219.0,0,Super Deluxe,0.78
+201220.0,0,Standard,0.64
+201221.0,0,Standard,0.64
+201224.0,0,Super Deluxe,0.78
+201225.0,0,Basic,0.69
+201226.0,0,Super Deluxe,0.78
+201227.0,0,Super Deluxe,0.78
+201228.0,0,Standard,0.64
+201229.0,0,Standard,0.64
+201230.0,0,Super Deluxe,0.78
+201231.0,0,Standard,0.64
+201232.0,0,Standard,0.64
+201233.0,0,Super Deluxe,0.78
+201234.0,0,Standard,0.64
+201235.0,0,Standard,0.64
+201238.0,0,Super Deluxe,0.78
+201239.0,0,Standard,0.64
+201240.0,0,Standard,0.64
+201241.0,0,Standard,0.64
+201242.0,0,Standard,0.64
+201243.0,0,Standard,0.64
+201244.0,0,Super Deluxe,0.78
+201245.0,0,Super Deluxe,0.78
+201247.0,0,Standard,0.64
+201248.0,0,Super Deluxe,0.78
+201250.0,0,Standard,0.64
+201251.0,0,Standard,0.64
+201252.0,0,Super Deluxe,0.78
+201253.0,0,Standard,0.64
+201254.0,0,Standard,0.64
+201256.0,0,Super Deluxe,0.78
+201258.0,0,Super Deluxe,0.78
+201259.0,0,Standard,0.64
+201260.0,0,Super Deluxe,0.78
+201261.0,0,Standard,0.64
+201263.0,0,Super Deluxe,0.78
+201264.0,0,Standard,0.64
+201265.0,0,Standard,0.64
+201266.0,0,Super Deluxe,0.78
+201267.0,0,Standard,0.64
+201268.0,0,Basic,0.69
+201269.0,0,Super Deluxe,0.78
+201270.0,0,Standard,0.64
+201272.0,0,Super Deluxe,0.78
+201274.0,0,Standard,0.64
+201275.0,0,Standard,0.64
+201276.0,0,Standard,0.64
+201277.0,0,Standard,0.64
+201278.0,0,Standard,0.64
+201280.0,0,Standard,0.64
+201282.0,0,Super Deluxe,0.78
+201283.0,0,Super Deluxe,0.78
+201284.0,0,Standard,0.64
+201285.0,0,Standard,0.64
+201286.0,0,Super Deluxe,0.78
+201287.0,0,Standard,0.64
+201288.0,0,Standard,0.64
+201289.0,0,Super Deluxe,0.78
+201292.0,0,Standard,0.64
+201293.0,0,Super Deluxe,0.78
+201294.0,0,Standard,0.64
+201295.0,0,Standard,0.64
+201296.0,0,Standard,0.64
+201299.0,0,Standard,0.64
+201300.0,0,Standard,0.64
+201301.0,0,Basic,0.69
+201302.0,0,Super Deluxe,0.78
+201303.0,0,Standard,0.64
+201304.0,0,Standard,0.64
+201305.0,0,Standard,0.64
+201306.0,0,Standard,0.64
+201307.0,0,Super Deluxe,0.78
+201308.0,0,Standard,0.64
+201309.0,0,Standard,0.64
+201310.0,0,Basic,0.69
+201311.0,0,Super Deluxe,0.78
+201314.0,0,Standard,0.64
+201315.0,0,Standard,0.64
+201316.0,0,Standard,0.64
+201317.0,0,Super Deluxe,0.78
+201318.0,0,Super Deluxe,0.78
+201319.0,0,Standard,0.64
+201320.0,0,Super Deluxe,0.78
+201321.0,0,Super Deluxe,0.78
+201322.0,0,Standard,0.64
+201323.0,0,Super Deluxe,0.78
+201324.0,0,Standard,0.64
+201325.0,0,Super Deluxe,0.78
+201327.0,0,Basic,0.69
+201328.0,0,Standard,0.64
+201329.0,0,Super Deluxe,0.78
+201330.0,0,Standard,0.64
+201331.0,0,Standard,0.64
+201334.0,0,Super Deluxe,0.78
+201335.0,0,Standard,0.64
+201336.0,0,Super Deluxe,0.78
+201337.0,0,Super Deluxe,0.78
+201340.0,0,Standard,0.64
+201341.0,0,Standard,0.64
+201342.0,0,Standard,0.64
+201343.0,0,Super Deluxe,0.78
+201344.0,0,Standard,0.64
+201345.0,0,Standard,0.64
+201346.0,0,Standard,0.64
+201347.0,0,Standard,0.64
+201348.0,0,Basic,0.69
+201349.0,0,Super Deluxe,0.78
+201350.0,0,Standard,0.64
+201351.0,0,Basic,0.69
+201352.0,0,Standard,0.64
+201355.0,0,Standard,0.64
+201356.0,0,Standard,0.64
+201357.0,0,Standard,0.64
+201358.0,0,Standard,0.64
+201359.0,0,Standard,0.64
+201360.0,0,Super Deluxe,0.78
+201361.0,0,Super Deluxe,0.78
+201362.0,0,Standard,0.64
+201363.0,0,Standard,0.64
+201364.0,0,Standard,0.64
+201366.0,0,Standard,0.64
+201367.0,0,Super Deluxe,0.78
+201368.0,0,Standard,0.64
+201370.0,0,Standard,0.64
+201371.0,0,Standard,0.64
+201372.0,0,Standard,0.64
+201373.0,0,Standard,0.64
+201374.0,0,Basic,0.69
+201376.0,0,Super Deluxe,0.78
+201377.0,0,Standard,0.64
+201378.0,0,Standard,0.64
+201380.0,0,Standard,0.64
+201381.0,0,Super Deluxe,0.78
+201382.0,0,Super Deluxe,0.78
+201383.0,0,Super Deluxe,0.78
+201384.0,0,Standard,0.64
+201385.0,0,Standard,0.64
+201386.0,0,Super Deluxe,0.78
+201387.0,0,Standard,0.64
+201388.0,0,Standard,0.64
+201389.0,0,Standard,0.64
+201391.0,0,Super Deluxe,0.78
+201392.0,0,Standard,0.64
+201393.0,0,Standard,0.64
+201394.0,0,Standard,0.64
+201397.0,0,Standard,0.64
+201398.0,0,Standard,0.64
+201399.0,0,Standard,0.64
+201400.0,0,Super Deluxe,0.78
+201401.0,0,Standard,0.64
+201402.0,0,Super Deluxe,0.78
+201403.0,0,Basic,0.69
+201404.0,0,Standard,0.64
+201405.0,0,Standard,0.64
+201406.0,0,Standard,0.64
+201407.0,0,Standard,0.64
+201408.0,0,Super Deluxe,0.78
+201409.0,0,Standard,0.64
+201410.0,0,Standard,0.64
+201411.0,0,Super Deluxe,0.78
+201412.0,0,Super Deluxe,0.78
+201413.0,0,Super Deluxe,0.78
+201414.0,0,Standard,0.64
+201415.0,0,Super Deluxe,0.78
+201416.0,0,Standard,0.64
+201417.0,0,Super Deluxe,0.78
+201418.0,0,Standard,0.64
+201419.0,0,Standard,0.64
+201420.0,0,Super Deluxe,0.78
+201421.0,0,Standard,0.64
+201422.0,0,Super Deluxe,0.78
+201423.0,0,Super Deluxe,0.78
+201424.0,0,Standard,0.64
+201425.0,0,Standard,0.64
+201426.0,0,Super Deluxe,0.78
+201427.0,0,Super Deluxe,0.78
+201428.0,0,Super Deluxe,0.78
+201429.0,0,Standard,0.64
+201430.0,0,Standard,0.64
+201431.0,0,Standard,0.64
+201432.0,0,Standard,0.64
+201433.0,0,Standard,0.64
+201434.0,0,Super Deluxe,0.78
+201435.0,0,Super Deluxe,0.78
+201436.0,0,Super Deluxe,0.78
+201437.0,0,Standard,0.64
+201439.0,0,Standard,0.64
+201440.0,0,Standard,0.64
+201441.0,0,Standard,0.64
+201443.0,0,Standard,0.64
+201445.0,0,Basic,0.69
+201446.0,0,Standard,0.64
+201447.0,0,Standard,0.64
+201448.0,0,Standard,0.64
+201449.0,0,Super Deluxe,0.78
+201450.0,0,Standard,0.64
+201451.0,0,Standard,0.64
+201453.0,0,Standard,0.64
+201454.0,0,Standard,0.64
+201455.0,0,Super Deluxe,0.78
+201456.0,0,Standard,0.64
+201457.0,0,Super Deluxe,0.78
+201458.0,0,Super Deluxe,0.78
+201459.0,0,Standard,0.64
+201460.0,0,Super Deluxe,0.78
+201462.0,0,Basic,0.69
+201463.0,0,Standard,0.64
+201464.0,0,Super Deluxe,0.78
+201465.0,0,Standard,0.64
+201466.0,0,Standard,0.64
+201467.0,0,Standard,0.64
+201468.0,0,Standard,0.64
+201469.0,0,Standard,0.64
+201471.0,0,Standard,0.64
+201473.0,0,Super Deluxe,0.78
+201474.0,0,Super Deluxe,0.78
+201475.0,0,Super Deluxe,0.78
+201476.0,0,Super Deluxe,0.78
+201477.0,0,Super Deluxe,0.78
+201478.0,0,Standard,0.64
+201479.0,0,Standard,0.64
+201480.0,0,Super Deluxe,0.78
+201481.0,0,Standard,0.64
+201482.0,0,Super Deluxe,0.78
+201483.0,0,Super Deluxe,0.78
+201485.0,0,Standard,0.64
+201486.0,0,Super Deluxe,0.78
+201487.0,0,Super Deluxe,0.78
+201488.0,0,Basic,0.69
+201489.0,0,Super Deluxe,0.78
+201490.0,0,Standard,0.64
+201492.0,0,Standard,0.64
+201493.0,0,Super Deluxe,0.78
+201495.0,0,Standard,0.64
+201497.0,0,Standard,0.64
+201498.0,0,Standard,0.64
+201499.0,0,Standard,0.64
+201500.0,0,Super Deluxe,0.78
+201501.0,0,Standard,0.64
+201502.0,0,Super Deluxe,0.78
+201505.0,0,Super Deluxe,0.78
+201507.0,0,Super Deluxe,0.78
+201508.0,0,Super Deluxe,0.78
+201509.0,0,Standard,0.64
+201510.0,0,Super Deluxe,0.78
+201511.0,0,Super Deluxe,0.78
+201513.0,0,Standard,0.64
+201514.0,0,Standard,0.64
+201516.0,0,Standard,0.64
+201517.0,0,Super Deluxe,0.78
+201518.0,0,Standard,0.64
+201519.0,0,Super Deluxe,0.78
+201522.0,0,Standard,0.64
+201523.0,0,Standard,0.64
+201524.0,0,Standard,0.64
+201525.0,0,Standard,0.64
+201526.0,0,Standard,0.64
+201527.0,0,Super Deluxe,0.78
+201528.0,0,Standard,0.64
+201529.0,0,Standard,0.64
+201530.0,0,Standard,0.64
+201531.0,0,Standard,0.64
+201532.0,0,Standard,0.64
+201533.0,0,Standard,0.64
+201534.0,0,Standard,0.64
+201535.0,0,Basic,0.69
+201536.0,0,Standard,0.64
+201537.0,0,Standard,0.64
+201538.0,0,Super Deluxe,0.78
+201540.0,0,Standard,0.64
+201541.0,0,Super Deluxe,0.78
+201542.0,0,Super Deluxe,0.78
+201543.0,0,Standard,0.64
+201544.0,0,Super Deluxe,0.78
+201545.0,0,Standard,0.64
+201546.0,0,Standard,0.64
+201547.0,0,Standard,0.64
+201548.0,0,Standard,0.64
+201549.0,0,Standard,0.64
+201550.0,0,Standard,0.64
+201551.0,0,Super Deluxe,0.78
+201552.0,0,Standard,0.64
+201553.0,0,Standard,0.64
+201554.0,0,Standard,0.64
+201555.0,0,Standard,0.64
+201556.0,0,Super Deluxe,0.78
+201557.0,0,Super Deluxe,0.78
+201558.0,0,Standard,0.64
+201560.0,0,Basic,0.69
+201561.0,0,Standard,0.64
+201562.0,0,Standard,0.64
+201563.0,0,Standard,0.64
+201564.0,0,Standard,0.64
+201565.0,0,Standard,0.64
+201566.0,0,Standard,0.64
+201567.0,0,Standard,0.64
+201568.0,0,Basic,0.69
+201569.0,0,Standard,0.64
+201571.0,0,Super Deluxe,0.78
+201573.0,0,Standard,0.64
+201574.0,0,Standard,0.64
+201575.0,0,Standard,0.64
+201576.0,0,Standard,0.64
+201578.0,0,Super Deluxe,0.78
+201579.0,0,Super Deluxe,0.78
+201580.0,0,Standard,0.64
+201582.0,0,Basic,0.69
+201583.0,0,Super Deluxe,0.78
+201584.0,0,Standard,0.64
+201585.0,0,Standard,0.64
+201586.0,0,Standard,0.64
+201587.0,0,Standard,0.64
+201588.0,0,Super Deluxe,0.78
+201589.0,0,Basic,0.69
+201590.0,0,Super Deluxe,0.78
+201591.0,0,Standard,0.64
+201593.0,0,Standard,0.64
+201595.0,0,Super Deluxe,0.78
+201598.0,0,Super Deluxe,0.78
+201599.0,0,Standard,0.64
+201600.0,0,Super Deluxe,0.78
+201601.0,0,Standard,0.64
+201603.0,0,Standard,0.64
+201604.0,0,Super Deluxe,0.78
+201605.0,0,Standard,0.64
+201607.0,0,Standard,0.64
+201608.0,0,Standard,0.64
+201609.0,0,Standard,0.64
+201611.0,0,Super Deluxe,0.78
+201612.0,0,Standard,0.64
+201613.0,0,Super Deluxe,0.78
+201614.0,0,Standard,0.64
+201615.0,0,Super Deluxe,0.78
+201616.0,0,Super Deluxe,0.78
+201617.0,0,Basic,0.69
+201618.0,0,Super Deluxe,0.78
+201619.0,0,Super Deluxe,0.78
+201620.0,0,Standard,0.64
+201621.0,0,Standard,0.64
+201622.0,0,Standard,0.64
+201623.0,0,Standard,0.64
+201624.0,0,Standard,0.64
+201625.0,0,Standard,0.64
+201626.0,0,Standard,0.64
+201627.0,0,Super Deluxe,0.78
+201628.0,0,Standard,0.64
+201629.0,0,Super Deluxe,0.78
+201630.0,0,Super Deluxe,0.78
+201631.0,0,Super Deluxe,0.78
+201632.0,0,Super Deluxe,0.78
+201633.0,0,Standard,0.64
+201634.0,0,Super Deluxe,0.78
+201635.0,0,Standard,0.64
+201636.0,0,Super Deluxe,0.78
+201637.0,0,Standard,0.64
+201638.0,0,Standard,0.64
+201639.0,0,Super Deluxe,0.78
+201640.0,0,Super Deluxe,0.78
+201642.0,0,Super Deluxe,0.78
+201643.0,0,Standard,0.64
+201644.0,0,Standard,0.64
+201645.0,0,Super Deluxe,0.78
+201646.0,0,Super Deluxe,0.78
+201648.0,0,Standard,0.64
+201649.0,0,Super Deluxe,0.78
+201650.0,0,Super Deluxe,0.78
+201651.0,0,Super Deluxe,0.78
+201653.0,0,Super Deluxe,0.78
+201654.0,0,Standard,0.64
+201655.0,0,Super Deluxe,0.78
+201656.0,0,Standard,0.64
+201657.0,0,Standard,0.64
+201658.0,0,Standard,0.64
+201659.0,0,Basic,0.69
+201660.0,0,Standard,0.64
+201661.0,0,Super Deluxe,0.78
+201663.0,0,Super Deluxe,0.78
+201664.0,0,Basic,0.69
+201665.0,0,Super Deluxe,0.78
+201666.0,0,Standard,0.64
+201667.0,0,Standard,0.64
+201668.0,0,Standard,0.64
+201669.0,0,Standard,0.64
+201670.0,0,Standard,0.64
+201671.0,0,Standard,0.64
+201672.0,0,Super Deluxe,0.78
+201673.0,0,Standard,0.64
+201676.0,0,Super Deluxe,0.78
+201677.0,0,Super Deluxe,0.78
+201678.0,0,Standard,0.64
+201679.0,0,Standard,0.64
+201681.0,0,Standard,0.64
+201682.0,0,Standard,0.64
+201683.0,0,Standard,0.64
+201685.0,0,Standard,0.64
+201688.0,0,Standard,0.64
+201689.0,0,Standard,0.64
+201690.0,0,Standard,0.64
+201691.0,0,Super Deluxe,0.78
+201692.0,0,Standard,0.64
+201693.0,0,Standard,0.64
+201694.0,0,Standard,0.64
+201695.0,0,Super Deluxe,0.78
+201696.0,0,Super Deluxe,0.78
+201697.0,0,Standard,0.64
+201698.0,0,Standard,0.64
+201700.0,0,Super Deluxe,0.78
+201701.0,0,Standard,0.64
+201702.0,0,Super Deluxe,0.78
+201703.0,0,Standard,0.64
+201705.0,0,Basic,0.69
+201707.0,0,Standard,0.64
+201708.0,0,Super Deluxe,0.78
+201710.0,0,Super Deluxe,0.78
+201711.0,0,Standard,0.64
+201712.0,0,Standard,0.64
+201713.0,0,Standard,0.64
+201714.0,0,Standard,0.64
+201715.0,0,Standard,0.64
+201716.0,0,Super Deluxe,0.78
+201717.0,0,Standard,0.64
+201718.0,0,Super Deluxe,0.78
+201719.0,0,Standard,0.64
+201721.0,0,Standard,0.64
+201722.0,0,Super Deluxe,0.78
+201723.0,0,Standard,0.64
+201724.0,0,Standard,0.64
+201725.0,0,Standard,0.64
+201726.0,0,Super Deluxe,0.78
+201727.0,0,Standard,0.64
+201728.0,0,Super Deluxe,0.78
+201730.0,0,Super Deluxe,0.78
+201731.0,0,Standard,0.64
+201732.0,0,Standard,0.64
+201733.0,0,Basic,0.69
+201735.0,0,Standard,0.64
+201736.0,0,Standard,0.64
+201737.0,0,Standard,0.64
+201738.0,0,Basic,0.69
+201739.0,0,Super Deluxe,0.78
+201740.0,0,Standard,0.64
+201742.0,0,Super Deluxe,0.78
+201743.0,0,Standard,0.64
+201744.0,0,Super Deluxe,0.78
+201745.0,0,Standard,0.64
+201746.0,0,Standard,0.64
+201747.0,0,Standard,0.64
+201748.0,0,Standard,0.64
+201749.0,0,Standard,0.64
+201750.0,0,Basic,0.69
+201751.0,0,Standard,0.64
+201752.0,0,Standard,0.64
+201753.0,0,Standard,0.64
+201754.0,0,Standard,0.64
+201755.0,0,Super Deluxe,0.78
+201757.0,0,Standard,0.64
+201759.0,0,Super Deluxe,0.78
+201760.0,0,Standard,0.64
+201761.0,0,Standard,0.64
+201762.0,0,Super Deluxe,0.78
+201764.0,0,Super Deluxe,0.78
+201765.0,0,Basic,0.69
+201767.0,0,Standard,0.64
+201768.0,0,Super Deluxe,0.78
+201769.0,0,Standard,0.64
+201770.0,0,Basic,0.69
+201771.0,0,Super Deluxe,0.78
+201772.0,0,Standard,0.64
+201773.0,0,Standard,0.64
+201774.0,0,Standard,0.64
+201775.0,0,Standard,0.64
+201776.0,0,Standard,0.64
+201777.0,0,Standard,0.64
+201778.0,0,Standard,0.64
+201779.0,0,Super Deluxe,0.78
+201780.0,0,Standard,0.64
+201781.0,0,Standard,0.64
+201782.0,0,Super Deluxe,0.78
+201783.0,0,Standard,0.64
+201784.0,0,Basic,0.69
+201785.0,0,Super Deluxe,0.78
+201786.0,0,Basic,0.69
+201788.0,0,Super Deluxe,0.78
+201789.0,0,Standard,0.64
+201790.0,0,Standard,0.64
+201791.0,0,Standard,0.64
+201792.0,0,Standard,0.64
+201794.0,0,Standard,0.64
+201795.0,0,Standard,0.64
+201796.0,0,Standard,0.64
+201798.0,0,Standard,0.64
+201799.0,0,Standard,0.64
+201800.0,0,Standard,0.64
+201801.0,0,Standard,0.64
+201802.0,0,Standard,0.64
+201803.0,0,Standard,0.64
+201804.0,0,Standard,0.64
+201805.0,0,Standard,0.64
+201807.0,0,Super Deluxe,0.78
+201808.0,0,Standard,0.64
+201809.0,0,Standard,0.64
+201810.0,0,Standard,0.64
+201811.0,0,Standard,0.64
+201812.0,0,Standard,0.64
+201813.0,0,Standard,0.64
+201814.0,0,Standard,0.64
+201815.0,0,Super Deluxe,0.78
+201816.0,0,Standard,0.64
+201817.0,0,Standard,0.64
+201818.0,0,Basic,0.69
+201819.0,0,Standard,0.64
+201820.0,0,Super Deluxe,0.78
+201821.0,0,Super Deluxe,0.78
+201822.0,0,Standard,0.64
+201823.0,0,Standard,0.64
+201824.0,0,Standard,0.64
+201825.0,0,Standard,0.64
+201826.0,0,Standard,0.64
+201828.0,0,Standard,0.64
+201829.0,0,Standard,0.64
+201830.0,0,Standard,0.64
+201831.0,0,Super Deluxe,0.78
+201832.0,0,Super Deluxe,0.78
+201834.0,0,Super Deluxe,0.78
+201835.0,0,Standard,0.64
+201837.0,0,Standard,0.64
+201839.0,0,Super Deluxe,0.78
+201841.0,0,Super Deluxe,0.78
+201842.0,0,Standard,0.64
+201843.0,0,Super Deluxe,0.78
+201844.0,0,Standard,0.64
+201845.0,0,Standard,0.64
+201846.0,0,Standard,0.64
+201847.0,0,Super Deluxe,0.78
+201849.0,0,Basic,0.69
+201850.0,0,Standard,0.64
+201851.0,0,Super Deluxe,0.78
+201853.0,0,Super Deluxe,0.78
+201854.0,0,Standard,0.64
+201856.0,0,Super Deluxe,0.78
+201857.0,0,Standard,0.64
+201858.0,0,Super Deluxe,0.78
+201859.0,0,Standard,0.64
+201860.0,0,Basic,0.69
+201861.0,0,Standard,0.64
+201862.0,0,Standard,0.64
+201863.0,0,Standard,0.64
+201864.0,0,Standard,0.64
+201865.0,0,Super Deluxe,0.78
+201866.0,0,Standard,0.64
+201867.0,0,Standard,0.64
+201868.0,0,Standard,0.64
+201869.0,0,Super Deluxe,0.78
+201870.0,0,Standard,0.64
+201871.0,0,Basic,0.69
+201872.0,0,Standard,0.64
+201873.0,0,Standard,0.64
+201874.0,0,Standard,0.64
+201876.0,0,Standard,0.64
+201877.0,0,Super Deluxe,0.78
+201878.0,0,Basic,0.69
+201879.0,0,Standard,0.64
+201880.0,0,Standard,0.64
+201881.0,0,Standard,0.64
+201882.0,0,Standard,0.64
+201883.0,0,Standard,0.64
+201886.0,0,Super Deluxe,0.78
+201887.0,0,Standard,0.64
+201888.0,0,Super Deluxe,0.78
+201889.0,0,Super Deluxe,0.78
+201890.0,0,Standard,0.64
+201893.0,0,Standard,0.64
+201894.0,0,Basic,0.69
+201895.0,0,Basic,0.69
+201896.0,0,Super Deluxe,0.78
+201897.0,0,Standard,0.64
+201898.0,0,Standard,0.64
+201899.0,0,Basic,0.69
+201900.0,0,Super Deluxe,0.78
+201901.0,0,Standard,0.64
+201902.0,0,Super Deluxe,0.78
+201903.0,0,Standard,0.64
+201904.0,0,Standard,0.64
+201907.0,0,Super Deluxe,0.78
+201908.0,0,Standard,0.64
+201911.0,0,Super Deluxe,0.78
+201912.0,0,Standard,0.64
+201914.0,0,Standard,0.64
+201915.0,0,Basic,0.69
+201916.0,0,Standard,0.64
+201917.0,0,Standard,0.64
+201918.0,0,Basic,0.69
+201919.0,0,Super Deluxe,0.78
+201920.0,0,Standard,0.64
+201921.0,0,Standard,0.64
+201922.0,0,Standard,0.64
+201924.0,0,Standard,0.64
+201925.0,0,Basic,0.69
+201926.0,0,Standard,0.64
+201928.0,0,Standard,0.64
+201929.0,0,Standard,0.64
+201930.0,0,Standard,0.64
+201931.0,0,Standard,0.64
+201932.0,0,Standard,0.64
+201934.0,0,Standard,0.64
+201935.0,0,Standard,0.64
+201936.0,0,Basic,0.69
+201937.0,0,Standard,0.64
+201938.0,0,Standard,0.64
+201940.0,0,Super Deluxe,0.78
+201941.0,0,Standard,0.64
+201942.0,0,Standard,0.64
+201943.0,0,Standard,0.64
+201944.0,0,Super Deluxe,0.78
+201945.0,0,Standard,0.64
+201946.0,0,Super Deluxe,0.78
+201947.0,0,Standard,0.64
+201948.0,0,Super Deluxe,0.78
+201951.0,0,Super Deluxe,0.78
+201953.0,0,Standard,0.64
+201954.0,0,Standard,0.64
+201955.0,0,Super Deluxe,0.78
+201956.0,0,Standard,0.64
+201957.0,0,Super Deluxe,0.78
+201958.0,0,Standard,0.64
+201959.0,0,Basic,0.69
+201960.0,0,Super Deluxe,0.78
+201961.0,0,Standard,0.64
+201962.0,0,Basic,0.69
+201963.0,0,Standard,0.64
+201964.0,0,Super Deluxe,0.78
+201966.0,0,Super Deluxe,0.78
+201967.0,0,Standard,0.64
+201968.0,0,Super Deluxe,0.78
+201969.0,0,Standard,0.64
+201970.0,0,Standard,0.64
+201971.0,0,Super Deluxe,0.78
+201972.0,0,Standard,0.64
+201973.0,0,Super Deluxe,0.78
+201975.0,0,Super Deluxe,0.78
+201976.0,0,Standard,0.64
+201977.0,0,Standard,0.64
+201978.0,0,Standard,0.64
+201979.0,0,Standard,0.64
+201980.0,0,Standard,0.64
+201981.0,0,Standard,0.64
+201982.0,0,Super Deluxe,0.78
+201985.0,0,Super Deluxe,0.78
+201986.0,0,Super Deluxe,0.78
+201987.0,0,Standard,0.64
+201988.0,0,Standard,0.64
+201989.0,0,Super Deluxe,0.78
+201990.0,0,Standard,0.64
+201991.0,0,Standard,0.64
+201992.0,0,Super Deluxe,0.78
+201993.0,0,Super Deluxe,0.78
+201994.0,0,Standard,0.64
+201996.0,0,Standard,0.64
+201997.0,0,Standard,0.64
+201999.0,0,Standard,0.64
+202000.0,0,Standard,0.64
+202001.0,0,Standard,0.64
+202002.0,0,Standard,0.64
+202003.0,0,Standard,0.64
+202004.0,0,Basic,0.69
+202005.0,0,Standard,0.64
+202006.0,0,Standard,0.64
+202007.0,0,Standard,0.64
+202008.0,0,Standard,0.64
+202009.0,0,Super Deluxe,0.78
+202011.0,0,Standard,0.64
+202012.0,0,Standard,0.64
+202013.0,0,Super Deluxe,0.78
+202014.0,0,Basic,0.69
+202015.0,0,Standard,0.64
+202016.0,0,Super Deluxe,0.78
+202018.0,0,Standard,0.64
+202019.0,0,Standard,0.64
+202020.0,0,Super Deluxe,0.78
+202021.0,0,Standard,0.64
+202022.0,0,Basic,0.69
+202023.0,0,Super Deluxe,0.78
+202024.0,0,Standard,0.64
+202025.0,0,Super Deluxe,0.78
+202026.0,0,Standard,0.64
+202027.0,0,Standard,0.64
+202028.0,0,Standard,0.64
+202029.0,0,Super Deluxe,0.78
+202030.0,0,Standard,0.64
+202031.0,0,Basic,0.69
+202033.0,0,Standard,0.64
+202034.0,0,Standard,0.64
+202035.0,0,Super Deluxe,0.78
+202037.0,0,Standard,0.64
+202039.0,0,Standard,0.64
+202040.0,0,Super Deluxe,0.78
+202041.0,0,Super Deluxe,0.78
+202042.0,0,Standard,0.64
+202044.0,0,Super Deluxe,0.78
+202045.0,0,Standard,0.64
+202046.0,0,Standard,0.64
+202047.0,0,Super Deluxe,0.78
+202048.0,0,Standard,0.64
+202049.0,0,Super Deluxe,0.78
+202050.0,0,Super Deluxe,0.78
+202051.0,0,Super Deluxe,0.78
+202052.0,0,Standard,0.64
+202053.0,0,Standard,0.64
+202054.0,0,Standard,0.64
+202056.0,0,Super Deluxe,0.78
+202057.0,0,Standard,0.64
+202058.0,0,Basic,0.69
+202060.0,0,Standard,0.64
+202062.0,0,Basic,0.69
+202063.0,0,Standard,0.64
+202064.0,0,Super Deluxe,0.78
+202066.0,0,Super Deluxe,0.78
+202067.0,0,Standard,0.64
+202069.0,0,Super Deluxe,0.78
+202070.0,0,Standard,0.64
+202071.0,0,Standard,0.64
+202072.0,0,Standard,0.64
+202073.0,0,Super Deluxe,0.78
+202074.0,0,Standard,0.64
+202075.0,0,Standard,0.64
+202076.0,0,Super Deluxe,0.78
+202079.0,0,Basic,0.69
+202080.0,0,Standard,0.64
+202081.0,0,Standard,0.64
+202082.0,0,Standard,0.64
+202083.0,0,Super Deluxe,0.78
+202085.0,0,Super Deluxe,0.78
+202086.0,0,Basic,0.69
+202087.0,0,Standard,0.64
+202088.0,0,Super Deluxe,0.78
+202089.0,0,Standard,0.64
+202090.0,0,Super Deluxe,0.78
+202091.0,0,Standard,0.64
+202092.0,0,Standard,0.64
+202093.0,0,Super Deluxe,0.78
+202094.0,0,Standard,0.64
+202095.0,0,Standard,0.64
+202096.0,0,Standard,0.64
+202097.0,0,Basic,0.69
+202098.0,0,Standard,0.64
+202099.0,0,Super Deluxe,0.78
+202100.0,0,Standard,0.64
+202101.0,0,Super Deluxe,0.78
+202102.0,0,Super Deluxe,0.78
+202103.0,0,Super Deluxe,0.78
+202104.0,0,Standard,0.64
+202105.0,0,Standard,0.64
+202107.0,0,Super Deluxe,0.78
+202108.0,0,Standard,0.64
+202109.0,0,Super Deluxe,0.78
+202110.0,0,Super Deluxe,0.78
+202111.0,0,Standard,0.64
+202112.0,0,Super Deluxe,0.78
+202113.0,0,Standard,0.64
+202114.0,0,Super Deluxe,0.78
+202116.0,0,Basic,0.69
+202117.0,0,Standard,0.64
+202118.0,0,Super Deluxe,0.78
+202119.0,0,Basic,0.69
+202120.0,0,Standard,0.64
+202121.0,0,Standard,0.64
+202122.0,0,Standard,0.64
+202123.0,0,Basic,0.69
+202124.0,0,Standard,0.64
+202125.0,0,Super Deluxe,0.78
+202127.0,0,Super Deluxe,0.78
+202128.0,0,Super Deluxe,0.78
+202129.0,0,Standard,0.64
+202131.0,0,Standard,0.64
+202134.0,0,Standard,0.64
+202135.0,0,Super Deluxe,0.78
+202138.0,0,Super Deluxe,0.78
+202140.0,0,Super Deluxe,0.78
+202141.0,0,Super Deluxe,0.78
+202142.0,0,Standard,0.64
+202143.0,0,Super Deluxe,0.78
+202144.0,0,Standard,0.64
+202145.0,0,Super Deluxe,0.78
+202146.0,0,Standard,0.64
+202147.0,0,Standard,0.64
+202148.0,0,Super Deluxe,0.78
+202149.0,0,Standard,0.64
+202150.0,0,Super Deluxe,0.78
+202151.0,0,Standard,0.64
+202152.0,0,Super Deluxe,0.78
+202154.0,0,Standard,0.64
+202155.0,0,Standard,0.64
+202156.0,0,Super Deluxe,0.78
+202157.0,0,Super Deluxe,0.78
+202160.0,0,Standard,0.64
+202161.0,0,Super Deluxe,0.78
+202162.0,0,Standard,0.64
+202164.0,0,Standard,0.64
+202166.0,0,Standard,0.64
+202167.0,0,Super Deluxe,0.78
+202168.0,0,Standard,0.64
+202169.0,0,Basic,0.69
+202171.0,0,Basic,0.69
+202172.0,0,Standard,0.64
+202173.0,0,Standard,0.64
+202174.0,0,Standard,0.64
+202175.0,0,Standard,0.64
+202177.0,0,Standard,0.64
+202178.0,0,Standard,0.64
+202180.0,0,Basic,0.69
+202182.0,0,Super Deluxe,0.78
+202183.0,0,Super Deluxe,0.78
+202184.0,0,Basic,0.69
+202185.0,0,Standard,0.64
+202186.0,0,Standard,0.64
+202187.0,0,Super Deluxe,0.78
+202188.0,0,Standard,0.64
+202189.0,0,Standard,0.64
+202191.0,0,Basic,0.69
+202192.0,0,Super Deluxe,0.78
+202193.0,0,Standard,0.64
+202194.0,0,Standard,0.64
+202196.0,0,Standard,0.64
+202197.0,0,Super Deluxe,0.78
+202198.0,0,Standard,0.64
+202199.0,0,Standard,0.64
+202200.0,0,Standard,0.64
+202203.0,0,Standard,0.64
+202204.0,0,Super Deluxe,0.78
+202205.0,0,Standard,0.64
+202206.0,0,Standard,0.64
+202207.0,0,Standard,0.64
+202208.0,0,Basic,0.69
+202209.0,0,Standard,0.64
+202210.0,0,Super Deluxe,0.78
+202211.0,0,Standard,0.64
+202212.0,0,Super Deluxe,0.78
+202213.0,0,Basic,0.69
+202215.0,0,Standard,0.64
+202216.0,0,Standard,0.64
+202217.0,0,Standard,0.64
+202220.0,0,Basic,0.69
+202221.0,0,Standard,0.64
+202223.0,0,Standard,0.64
+202224.0,0,Super Deluxe,0.78
+202225.0,0,Basic,0.69
+202226.0,0,Super Deluxe,0.78
+202227.0,0,Standard,0.64
+202228.0,0,Standard,0.64
+202229.0,0,Super Deluxe,0.78
+202230.0,0,Standard,0.64
+202233.0,0,Super Deluxe,0.78
+202234.0,0,Super Deluxe,0.78
+202235.0,0,Super Deluxe,0.78
+202236.0,0,Standard,0.64
+202237.0,0,Standard,0.64
+202238.0,0,Standard,0.64
+202239.0,0,Super Deluxe,0.78
+202240.0,0,Standard,0.64
+202241.0,0,Standard,0.64
+202242.0,0,Super Deluxe,0.78
+202243.0,0,Standard,0.64
+202244.0,0,Basic,0.69
+202245.0,0,Standard,0.64
+202248.0,0,Standard,0.64
+202251.0,0,Super Deluxe,0.78
+202252.0,0,Standard,0.64
+202253.0,0,Super Deluxe,0.78
+202254.0,0,Standard,0.64
+202255.0,0,Standard,0.64
+202256.0,0,Super Deluxe,0.78
+202257.0,0,Standard,0.64
+202258.0,0,Standard,0.64
+202260.0,0,Standard,0.64
+202263.0,0,Super Deluxe,0.78
+202264.0,0,Standard,0.64
+202265.0,0,Standard,0.64
+202269.0,0,Basic,0.69
+202272.0,0,Standard,0.64
+202273.0,0,Super Deluxe,0.78
+202274.0,0,Basic,0.69
+202275.0,0,Standard,0.64
+202276.0,0,Standard,0.64
+202277.0,0,Standard,0.64
+202278.0,0,Super Deluxe,0.78
+202279.0,0,Standard,0.64
+202280.0,0,Basic,0.69
+202281.0,0,Standard,0.64
+202282.0,0,Standard,0.64
+202284.0,0,Standard,0.64
+202285.0,0,Super Deluxe,0.78
+202286.0,0,Standard,0.64
+202287.0,0,Standard,0.64
+202288.0,0,Super Deluxe,0.78
+202289.0,0,Super Deluxe,0.78
+202290.0,0,Standard,0.64
+202291.0,0,Basic,0.69
+202292.0,0,Standard,0.64
+202293.0,0,Super Deluxe,0.78
+202294.0,0,Standard,0.64
+202295.0,0,Standard,0.64
+202296.0,0,Super Deluxe,0.78
+202297.0,0,Super Deluxe,0.78
+202300.0,0,Super Deluxe,0.78
+202302.0,0,Standard,0.64
+202303.0,0,Super Deluxe,0.78
+202304.0,0,Standard,0.64
+202305.0,0,Super Deluxe,0.78
+202307.0,0,Standard,0.64
+202309.0,0,Standard,0.64
+202310.0,0,Super Deluxe,0.78
+202311.0,0,Super Deluxe,0.78
+202313.0,0,Super Deluxe,0.78
+202314.0,0,Standard,0.64
+202315.0,0,Standard,0.64
+202316.0,0,Standard,0.64
+202317.0,0,Standard,0.64
+202318.0,0,Super Deluxe,0.78
+202320.0,0,Super Deluxe,0.78
+202321.0,0,Standard,0.64
+202322.0,0,Super Deluxe,0.78
+202323.0,0,Super Deluxe,0.78
+202324.0,0,Super Deluxe,0.78
+202325.0,0,Standard,0.64
+202326.0,0,Super Deluxe,0.78
+202328.0,0,Standard,0.64
+202329.0,0,Super Deluxe,0.78
+202331.0,0,Basic,0.69
+202332.0,0,Super Deluxe,0.78
+202333.0,0,Super Deluxe,0.78
+202335.0,0,Standard,0.64
+202336.0,0,Standard,0.64
+202337.0,0,Basic,0.69
+202338.0,0,Super Deluxe,0.78
+202339.0,0,Standard,0.64
+202340.0,0,Standard,0.64
+202342.0,0,Standard,0.64
+202343.0,0,Super Deluxe,0.78
+202344.0,0,Standard,0.64
+202345.0,0,Standard,0.64
+202346.0,0,Super Deluxe,0.78
+202347.0,0,Standard,0.64
+202348.0,0,Standard,0.64
+202349.0,0,Standard,0.64
+202350.0,0,Super Deluxe,0.78
+202351.0,0,Standard,0.64
+202352.0,0,Standard,0.64
+202353.0,0,Super Deluxe,0.78
+202354.0,0,Standard,0.64
+202355.0,0,Standard,0.64
+202356.0,0,Super Deluxe,0.78
+202357.0,0,Standard,0.64
+202358.0,0,Standard,0.64
+202359.0,0,Super Deluxe,0.78
+202360.0,0,Standard,0.64
+202361.0,0,Super Deluxe,0.78
+202363.0,0,Super Deluxe,0.78
+202364.0,0,Basic,0.69
+202365.0,0,Standard,0.64
+202366.0,0,Standard,0.64
+202367.0,0,Standard,0.64
+202368.0,0,Standard,0.64
+202369.0,0,Standard,0.64
+202370.0,0,Super Deluxe,0.78
+202445.0,0,Standard,0.64
+202447.0,0,Super Deluxe,0.78
+202448.0,0,Super Deluxe,0.78
+202449.0,0,Super Deluxe,0.78
+202450.0,0,Super Deluxe,0.78
+202451.0,0,Super Deluxe,0.78
+202452.0,0,Standard,0.64
+202453.0,0,Standard,0.64
+202454.0,0,Super Deluxe,0.78
+202455.0,0,Standard,0.64
+202456.0,0,Super Deluxe,0.78
+202457.0,0,Super Deluxe,0.78
+202459.0,0,Standard,0.64
+202460.0,0,Super Deluxe,0.78
+202461.0,0,Super Deluxe,0.78
+202462.0,0,Basic,0.69
+202463.0,0,Super Deluxe,0.78
+202464.0,0,Standard,0.64
+202466.0,0,Standard,0.64
+202467.0,0,Super Deluxe,0.78
+202469.0,0,Standard,0.64
+202471.0,0,Standard,0.64
+202472.0,0,Standard,0.64
+202473.0,0,Standard,0.64
+202474.0,0,Super Deluxe,0.78
+202475.0,0,Standard,0.64
+202476.0,0,Super Deluxe,0.78
+202479.0,0,Super Deluxe,0.78
+202481.0,0,Super Deluxe,0.78
+202482.0,0,Super Deluxe,0.78
+202483.0,0,Standard,0.64
+202484.0,0,Super Deluxe,0.78
+202485.0,0,Super Deluxe,0.78
+202487.0,0,Standard,0.64
+202488.0,0,Standard,0.64
+202490.0,0,Standard,0.64
+202491.0,0,Super Deluxe,0.78
+202492.0,0,Standard,0.64
+202493.0,0,Super Deluxe,0.78
+202496.0,0,Standard,0.64
+202497.0,0,Standard,0.64
+202498.0,0,Standard,0.64
+202499.0,0,Standard,0.64
+202500.0,0,Standard,0.64
+202501.0,0,Super Deluxe,0.78
+202502.0,0,Standard,0.64
+202503.0,0,Standard,0.64
+202504.0,0,Standard,0.64
+202505.0,0,Standard,0.64
+202506.0,0,Standard,0.64
+202507.0,0,Standard,0.64
+202508.0,0,Standard,0.64
+202509.0,0,Basic,0.69
+202510.0,0,Standard,0.64
+202511.0,0,Standard,0.64
+202512.0,0,Super Deluxe,0.78
+202514.0,0,Standard,0.64
+202515.0,0,Super Deluxe,0.78
+202516.0,0,Super Deluxe,0.78
+202517.0,0,Standard,0.64
+202518.0,0,Standard,0.64
+202519.0,0,Standard,0.64
+202520.0,0,Standard,0.64
+202521.0,0,Standard,0.64
+202522.0,0,Standard,0.64
+202523.0,0,Standard,0.64
+202524.0,0,Standard,0.64
+202525.0,0,Super Deluxe,0.78
+202526.0,0,Standard,0.64
+202527.0,0,Standard,0.64
+202528.0,0,Standard,0.64
+202529.0,0,Standard,0.64
+202530.0,0,Super Deluxe,0.78
+202531.0,0,Super Deluxe,0.78
+202532.0,0,Standard,0.64
+202534.0,0,Basic,0.69
+202535.0,0,Standard,0.64
+202536.0,0,Standard,0.64
+202537.0,0,Standard,0.64
+202538.0,0,Standard,0.64
+202539.0,0,Standard,0.64
+202540.0,0,Standard,0.64
+202541.0,0,Standard,0.64
+202542.0,0,Basic,0.69
+202543.0,0,Standard,0.64
+202545.0,0,Super Deluxe,0.78
+202547.0,0,Standard,0.64
+202548.0,0,Standard,0.64
+202549.0,0,Standard,0.64
+202550.0,0,Standard,0.64
+202552.0,0,Super Deluxe,0.78
+202553.0,0,Super Deluxe,0.78
+202554.0,0,Standard,0.64
+202556.0,0,Basic,0.69
+202557.0,0,Super Deluxe,0.78
+202558.0,0,Standard,0.64
+202559.0,0,Standard,0.64
+202560.0,0,Standard,0.64
+202561.0,0,Standard,0.64
+202562.0,0,Super Deluxe,0.78
+202563.0,0,Basic,0.69
+202564.0,0,Super Deluxe,0.78
+202565.0,0,Standard,0.64
+202567.0,0,Standard,0.64
+202569.0,0,Super Deluxe,0.78
+202572.0,0,Super Deluxe,0.78
+202573.0,0,Standard,0.64
+202574.0,0,Super Deluxe,0.78
+202575.0,0,Standard,0.64
+202577.0,0,Standard,0.64
+202578.0,0,Super Deluxe,0.78
+202579.0,0,Standard,0.64
+202581.0,0,Standard,0.64
+202582.0,0,Standard,0.64
+202583.0,0,Standard,0.64
+202585.0,0,Super Deluxe,0.78
+202586.0,0,Standard,0.64
+202587.0,0,Super Deluxe,0.78
+202588.0,0,Standard,0.64
+202589.0,0,Super Deluxe,0.78
+202590.0,0,Super Deluxe,0.78
+202591.0,0,Basic,0.69
+202592.0,0,Super Deluxe,0.78
+202593.0,0,Super Deluxe,0.78
+202594.0,0,Standard,0.64
+202595.0,0,Standard,0.64
+202596.0,0,Standard,0.64
+202597.0,0,Standard,0.64
+202598.0,0,Standard,0.64
+202599.0,0,Standard,0.64
+202600.0,0,Standard,0.64
+202601.0,0,Super Deluxe,0.78
+202602.0,0,Standard,0.64
+202603.0,0,Super Deluxe,0.78
+202604.0,0,Super Deluxe,0.78
+202605.0,0,Super Deluxe,0.78
+202606.0,0,Super Deluxe,0.78
+202607.0,0,Standard,0.64
+202608.0,0,Super Deluxe,0.78
+202609.0,0,Standard,0.64
+202610.0,0,Super Deluxe,0.78
+202611.0,0,Standard,0.64
+202612.0,0,Standard,0.64
+202613.0,0,Super Deluxe,0.78
+202614.0,0,Super Deluxe,0.78
+202616.0,0,Super Deluxe,0.78
+202617.0,0,Standard,0.64
+202618.0,0,Standard,0.64
+202619.0,0,Super Deluxe,0.78
+202620.0,0,Super Deluxe,0.78
+202622.0,0,Standard,0.64
+202623.0,0,Super Deluxe,0.78
+202624.0,0,Super Deluxe,0.78
+202625.0,0,Super Deluxe,0.78
+202627.0,0,Super Deluxe,0.78
+202628.0,0,Standard,0.64
+202629.0,0,Super Deluxe,0.78
+202630.0,0,Standard,0.64
+202631.0,0,Standard,0.64
+202632.0,0,Standard,0.64
+202633.0,0,Basic,0.69
+202634.0,0,Standard,0.64
+202635.0,0,Super Deluxe,0.78
+202637.0,0,Super Deluxe,0.78
+202638.0,0,Basic,0.69
+202639.0,0,Super Deluxe,0.78
+202640.0,0,Standard,0.64
+202641.0,0,Standard,0.64
+202642.0,0,Standard,0.64
+202643.0,0,Standard,0.64
+202644.0,0,Standard,0.64
+202645.0,0,Standard,0.64
+202646.0,0,Super Deluxe,0.78
+202647.0,0,Standard,0.64
+202650.0,0,Super Deluxe,0.78
+202651.0,0,Super Deluxe,0.78
+202652.0,0,Standard,0.64
+202653.0,0,Standard,0.64
+202655.0,0,Standard,0.64
+202656.0,0,Standard,0.64
+202657.0,0,Standard,0.64
+202659.0,0,Standard,0.64
+202662.0,0,Standard,0.64
+202663.0,0,Standard,0.64
+202664.0,0,Standard,0.64
+202665.0,0,Super Deluxe,0.78
+202666.0,0,Standard,0.64
+202667.0,0,Standard,0.64
+202668.0,0,Standard,0.64
+202669.0,0,Super Deluxe,0.78
+202670.0,0,Super Deluxe,0.78
+202671.0,0,Standard,0.64
+202672.0,0,Standard,0.64
+202674.0,0,Super Deluxe,0.78
+202675.0,0,Standard,0.64
+202676.0,0,Super Deluxe,0.78
+202677.0,0,Standard,0.64
+202679.0,0,Basic,0.69
+202681.0,0,Standard,0.64
+202682.0,0,Super Deluxe,0.78
+202684.0,0,Super Deluxe,0.78
+202685.0,0,Standard,0.64
+202686.0,0,Standard,0.64
+202687.0,0,Standard,0.64
+202688.0,0,Standard,0.64
+202689.0,0,Standard,0.64
+202690.0,0,Super Deluxe,0.78
+202691.0,0,Standard,0.64
+202692.0,0,Super Deluxe,0.78
+202693.0,0,Standard,0.64
+202695.0,0,Standard,0.64
+202696.0,0,Super Deluxe,0.78
+202697.0,0,Standard,0.64
+202698.0,0,Standard,0.64
+202699.0,0,Standard,0.64
+202700.0,0,Super Deluxe,0.78
+202701.0,0,Standard,0.64
+202702.0,0,Super Deluxe,0.78
+202704.0,0,Super Deluxe,0.78
+202705.0,0,Standard,0.64
+202706.0,0,Standard,0.64
+202707.0,0,Basic,0.69
+202709.0,0,Standard,0.64
+202710.0,0,Standard,0.64
+202711.0,0,Standard,0.64
+202712.0,0,Basic,0.69
+202713.0,0,Super Deluxe,0.78
+202714.0,0,Standard,0.64
+202716.0,0,Super Deluxe,0.78
+202717.0,0,Standard,0.64
+202718.0,0,Super Deluxe,0.78
+202719.0,0,Standard,0.64
+202720.0,0,Standard,0.64
+202721.0,0,Standard,0.64
+202722.0,0,Standard,0.64
+202723.0,0,Standard,0.64
+202724.0,0,Basic,0.69
+202725.0,0,Standard,0.64
+202726.0,0,Standard,0.64
+202727.0,0,Standard,0.64
+202728.0,0,Standard,0.64
+202729.0,0,Super Deluxe,0.78
+202731.0,0,Standard,0.64
+202733.0,0,Super Deluxe,0.78
+202734.0,0,Standard,0.64
+202735.0,0,Standard,0.64
+202736.0,0,Super Deluxe,0.78
+202738.0,0,Super Deluxe,0.78
+202739.0,0,Basic,0.69
+202741.0,0,Standard,0.64
+202742.0,0,Super Deluxe,0.78
+202743.0,0,Standard,0.64
+202744.0,0,Basic,0.69
+202745.0,0,Super Deluxe,0.78
+202746.0,0,Standard,0.64
+202747.0,0,Standard,0.64
+202748.0,0,Standard,0.64
+202749.0,0,Standard,0.64
+202750.0,0,Standard,0.64
+202751.0,0,Standard,0.64
+202752.0,0,Standard,0.64
+202753.0,0,Super Deluxe,0.78
+202754.0,0,Standard,0.64
+202755.0,0,Standard,0.64
+202756.0,0,Super Deluxe,0.78
+202757.0,0,Standard,0.64
+202758.0,0,Basic,0.69
+202759.0,0,Super Deluxe,0.78
+202760.0,0,Basic,0.69
+202762.0,0,Super Deluxe,0.78
+202763.0,0,Standard,0.64
+202764.0,0,Standard,0.64
+202765.0,0,Standard,0.64
+202766.0,0,Standard,0.64
+202768.0,0,Standard,0.64
+202769.0,0,Standard,0.64
+202770.0,0,Standard,0.64
+202772.0,0,Standard,0.64
+202773.0,0,Standard,0.64
+202774.0,0,Standard,0.64
+202775.0,0,Standard,0.64
+202776.0,0,Standard,0.64
+202777.0,0,Standard,0.64
+202778.0,0,Standard,0.64
+202779.0,0,Standard,0.64
+202781.0,0,Super Deluxe,0.78
+202782.0,0,Standard,0.64
+202783.0,0,Standard,0.64
+202784.0,0,Standard,0.64
+202785.0,0,Standard,0.64
+202786.0,0,Standard,0.64
+202787.0,0,Standard,0.64
+202788.0,0,Standard,0.64
+202789.0,0,Super Deluxe,0.78
+202790.0,0,Standard,0.64
+202791.0,0,Standard,0.64
+202792.0,0,Basic,0.69
+202793.0,0,Standard,0.64
+202794.0,0,Super Deluxe,0.78
+202795.0,0,Super Deluxe,0.78
+202796.0,0,Standard,0.64
+202797.0,0,Standard,0.64
+202798.0,0,Standard,0.64
+202799.0,0,Standard,0.64
+202800.0,0,Standard,0.64
+202802.0,0,Standard,0.64
+202803.0,0,Standard,0.64
+202804.0,0,Standard,0.64
+202805.0,0,Super Deluxe,0.78
+202806.0,0,Super Deluxe,0.78
+202808.0,0,Super Deluxe,0.78
+202809.0,0,Standard,0.64
+202811.0,0,Standard,0.64
+202813.0,0,Super Deluxe,0.78
+202815.0,0,Super Deluxe,0.78
+202816.0,0,Standard,0.64
+202817.0,0,Super Deluxe,0.78
+202818.0,0,Standard,0.64
+202819.0,0,Standard,0.64
+202820.0,0,Standard,0.64
+202821.0,0,Super Deluxe,0.78
+202823.0,0,Basic,0.69
+202824.0,0,Standard,0.64
+202825.0,0,Super Deluxe,0.78
+202827.0,0,Super Deluxe,0.78
+202828.0,0,Standard,0.64
+202830.0,0,Super Deluxe,0.78
+202831.0,0,Standard,0.64
+202832.0,0,Super Deluxe,0.78
+202833.0,0,Standard,0.64
+202834.0,0,Basic,0.69
+202835.0,0,Standard,0.64
+202836.0,0,Standard,0.64
+202837.0,0,Standard,0.64
+202838.0,0,Standard,0.64
+202839.0,0,Super Deluxe,0.78
+202840.0,0,Standard,0.64
+202841.0,0,Standard,0.64
+202842.0,0,Standard,0.64
+202843.0,0,Super Deluxe,0.78
+202844.0,0,Standard,0.64
+202845.0,0,Basic,0.69
+202846.0,0,Standard,0.64
+202847.0,0,Standard,0.64
+202848.0,0,Standard,0.64
+202850.0,0,Standard,0.64
+202851.0,0,Super Deluxe,0.78
+202852.0,0,Basic,0.69
+202853.0,0,Standard,0.64
+202854.0,0,Standard,0.64
+202855.0,0,Standard,0.64
+202856.0,0,Standard,0.64
+202857.0,0,Standard,0.64
+202860.0,0,Super Deluxe,0.78
+202861.0,0,Standard,0.64
+202862.0,0,Super Deluxe,0.78
+202863.0,0,Super Deluxe,0.78
+202864.0,0,Standard,0.64
+202867.0,0,Standard,0.64
+202868.0,0,Basic,0.69
+202869.0,0,Basic,0.69
+202870.0,0,Super Deluxe,0.78
+202871.0,0,Standard,0.64
+202872.0,0,Standard,0.64
+202873.0,0,Basic,0.69
+202874.0,0,Super Deluxe,0.78
+202875.0,0,Standard,0.64
+202876.0,0,Super Deluxe,0.78
+202877.0,0,Standard,0.64
+202878.0,0,Standard,0.64
+202881.0,0,Super Deluxe,0.78
+202882.0,0,Standard,0.64
+202885.0,0,Super Deluxe,0.78
+202886.0,0,Standard,0.64
+202888.0,0,Standard,0.64
+202889.0,0,Basic,0.69
+202890.0,0,Standard,0.64
+202891.0,0,Standard,0.64
+202892.0,0,Basic,0.69
+202893.0,0,Super Deluxe,0.78
+202894.0,0,Standard,0.64
+202895.0,0,Standard,0.64
+202896.0,0,Standard,0.64
+202898.0,0,Standard,0.64
+202899.0,0,Basic,0.69
+202900.0,0,Standard,0.64
+202902.0,0,Standard,0.64
+202903.0,0,Standard,0.64
+202904.0,0,Standard,0.64
+202905.0,0,Standard,0.64
+202906.0,0,Standard,0.64
+202908.0,0,Standard,0.64
+202909.0,0,Standard,0.64
+202910.0,0,Basic,0.69
+202911.0,0,Standard,0.64
+202912.0,0,Standard,0.64
+202914.0,0,Super Deluxe,0.78
+202915.0,0,Standard,0.64
+202916.0,0,Standard,0.64
+202917.0,0,Standard,0.64
+202918.0,0,Super Deluxe,0.78
+202919.0,0,Standard,0.64
+202920.0,0,Super Deluxe,0.78
+202921.0,0,Standard,0.64
+202922.0,0,Super Deluxe,0.78
+202925.0,0,Super Deluxe,0.78
+202927.0,0,Standard,0.64
+202928.0,0,Standard,0.64
+202929.0,0,Super Deluxe,0.78
+202930.0,0,Standard,0.64
+202931.0,0,Super Deluxe,0.78
+202932.0,0,Standard,0.64
+202933.0,0,Basic,0.69
+202934.0,0,Super Deluxe,0.78
+202935.0,0,Standard,0.64
+202936.0,0,Basic,0.69
+202937.0,0,Standard,0.64
+202938.0,0,Super Deluxe,0.78
+202940.0,0,Super Deluxe,0.78
+202941.0,0,Standard,0.64
+202942.0,0,Super Deluxe,0.78
+202943.0,0,Standard,0.64
+202944.0,0,Standard,0.64
+202945.0,0,Super Deluxe,0.78
+202946.0,0,Standard,0.64
+202947.0,0,Super Deluxe,0.78
+202949.0,0,Super Deluxe,0.78
+202950.0,0,Standard,0.64
+202951.0,0,Standard,0.64
+202952.0,0,Standard,0.64
+202953.0,0,Standard,0.64
+202954.0,0,Standard,0.64
+202955.0,0,Standard,0.64
+202956.0,0,Super Deluxe,0.78
+202959.0,0,Super Deluxe,0.78
+202960.0,0,Super Deluxe,0.78
+202961.0,0,Standard,0.64
+202962.0,0,Standard,0.64
+202963.0,0,Super Deluxe,0.78
+202964.0,0,Standard,0.64
+202965.0,0,Standard,0.64
+202966.0,0,Super Deluxe,0.78
+202967.0,0,Super Deluxe,0.78
+202968.0,0,Standard,0.64
+202970.0,0,Standard,0.64
+202971.0,0,Standard,0.64
+202973.0,0,Standard,0.64
+202974.0,0,Standard,0.64
+202975.0,0,Standard,0.64
+202976.0,0,Standard,0.64
+202977.0,0,Standard,0.64
+202978.0,0,Basic,0.69
+202979.0,0,Standard,0.64
+202980.0,0,Standard,0.64
+202981.0,0,Standard,0.64
+202982.0,0,Standard,0.64
+202983.0,0,Super Deluxe,0.78
+202985.0,0,Standard,0.64
+202986.0,0,Standard,0.64
+202987.0,0,Super Deluxe,0.78
+202988.0,0,Basic,0.69
+202989.0,0,Standard,0.64
+202990.0,0,Super Deluxe,0.78
+202992.0,0,Standard,0.64
+202993.0,0,Standard,0.64
+202994.0,0,Super Deluxe,0.78
+202995.0,0,Standard,0.64
+202996.0,0,Basic,0.69
+202997.0,0,Super Deluxe,0.78
+202998.0,0,Standard,0.64
+202999.0,0,Super Deluxe,0.78
+203000.0,0,Standard,0.64
+203001.0,0,Standard,0.64
+203002.0,0,Standard,0.64
+203003.0,0,Super Deluxe,0.78
+203004.0,0,Standard,0.64
+203005.0,0,Basic,0.69
+203007.0,0,Standard,0.64
+203008.0,0,Standard,0.64
+203009.0,0,Super Deluxe,0.78
+203011.0,0,Standard,0.64
+203013.0,0,Standard,0.64
+203014.0,0,Super Deluxe,0.78
+203015.0,0,Super Deluxe,0.78
+203016.0,0,Standard,0.64
+203018.0,0,Super Deluxe,0.78
+203019.0,0,Standard,0.64
+203020.0,0,Standard,0.64
+203021.0,0,Super Deluxe,0.78
+203022.0,0,Standard,0.64
+203023.0,0,Super Deluxe,0.78
+203024.0,0,Super Deluxe,0.78
+203025.0,0,Super Deluxe,0.78
+203026.0,0,Standard,0.64
+203027.0,0,Standard,0.64
+203028.0,0,Standard,0.64
+203030.0,0,Super Deluxe,0.78
+203031.0,0,Standard,0.64
+203032.0,0,Basic,0.69
+203034.0,0,Standard,0.64
+203036.0,0,Basic,0.69
+203037.0,0,Standard,0.64
+203038.0,0,Super Deluxe,0.78
+203040.0,0,Super Deluxe,0.78
+203041.0,0,Standard,0.64
+203043.0,0,Super Deluxe,0.78
+203044.0,0,Standard,0.64
+203045.0,0,Standard,0.64
+203046.0,0,Standard,0.64
+203047.0,0,Super Deluxe,0.78
+203048.0,0,Standard,0.64
+203049.0,0,Standard,0.64
+203050.0,0,Super Deluxe,0.78
+203053.0,0,Basic,0.69
+203054.0,0,Standard,0.64
+203055.0,0,Standard,0.64
+203056.0,0,Standard,0.64
+203057.0,0,Super Deluxe,0.78
+203059.0,0,Super Deluxe,0.78
+203060.0,0,Basic,0.69
+203061.0,0,Standard,0.64
+203062.0,0,Super Deluxe,0.78
+203063.0,0,Standard,0.64
+203064.0,0,Super Deluxe,0.78
+203065.0,0,Standard,0.64
+203066.0,0,Standard,0.64
+203067.0,0,Super Deluxe,0.78
+203068.0,0,Standard,0.64
+203069.0,0,Standard,0.64
+203070.0,0,Standard,0.64
+203071.0,0,Basic,0.69
+203072.0,0,Standard,0.64
+203073.0,0,Super Deluxe,0.78
+203074.0,0,Standard,0.64
+203075.0,0,Super Deluxe,0.78
+203076.0,0,Super Deluxe,0.78
+203077.0,0,Super Deluxe,0.78
+203078.0,0,Standard,0.64
+203079.0,0,Standard,0.64
+203081.0,0,Super Deluxe,0.78
+203082.0,0,Standard,0.64
+203083.0,0,Super Deluxe,0.78
+203084.0,0,Super Deluxe,0.78
+203085.0,0,Standard,0.64
+203086.0,0,Super Deluxe,0.78
+203087.0,0,Standard,0.64
+203088.0,0,Super Deluxe,0.78
+203090.0,0,Basic,0.69
+203091.0,0,Standard,0.64
+203092.0,0,Super Deluxe,0.78
+203093.0,0,Basic,0.69
+203094.0,0,Standard,0.64
+203095.0,0,Standard,0.64
+203096.0,0,Standard,0.64
+203097.0,0,Basic,0.69
+203098.0,0,Standard,0.64
+203099.0,0,Super Deluxe,0.78
+203101.0,0,Super Deluxe,0.78
+203102.0,0,Super Deluxe,0.78
+203103.0,0,Standard,0.64
+203105.0,0,Standard,0.64
+203108.0,0,Standard,0.64
+203109.0,0,Super Deluxe,0.78
+203112.0,0,Super Deluxe,0.78
+203114.0,0,Super Deluxe,0.78
+203115.0,0,Super Deluxe,0.78
+203116.0,0,Standard,0.64
+203117.0,0,Super Deluxe,0.78
+203118.0,0,Standard,0.64
+203119.0,0,Super Deluxe,0.78
+203120.0,0,Standard,0.64
+203121.0,0,Standard,0.64
+203122.0,0,Super Deluxe,0.78
+203123.0,0,Standard,0.64
+203124.0,0,Super Deluxe,0.78
+203125.0,0,Standard,0.64
+203126.0,0,Super Deluxe,0.78
+203128.0,0,Standard,0.64
+203129.0,0,Standard,0.64
+203130.0,0,Super Deluxe,0.78
+203131.0,0,Super Deluxe,0.78
+203134.0,0,Standard,0.64
+203135.0,0,Super Deluxe,0.78
+203136.0,0,Standard,0.64
+203138.0,0,Standard,0.64
+203140.0,0,Standard,0.64
+203141.0,0,Super Deluxe,0.78
+203142.0,0,Standard,0.64
+203143.0,0,Basic,0.69
+203145.0,0,Basic,0.69
+203146.0,0,Standard,0.64
+203147.0,0,Standard,0.64
+203148.0,0,Standard,0.64
+203149.0,0,Standard,0.64
+203151.0,0,Standard,0.64
+203152.0,0,Standard,0.64
+203154.0,0,Basic,0.69
+203156.0,0,Super Deluxe,0.78
+203157.0,0,Super Deluxe,0.78
+203158.0,0,Basic,0.69
+203159.0,0,Standard,0.64
+203160.0,0,Standard,0.64
+203161.0,0,Super Deluxe,0.78
+203162.0,0,Standard,0.64
+203163.0,0,Standard,0.64
+203165.0,0,Basic,0.69
+203166.0,0,Super Deluxe,0.78
+203167.0,0,Standard,0.64
+203168.0,0,Standard,0.64
+203170.0,0,Standard,0.64
+203171.0,0,Super Deluxe,0.78
+203172.0,0,Standard,0.64
+203173.0,0,Standard,0.64
+203174.0,0,Standard,0.64
+203177.0,0,Standard,0.64
+203178.0,0,Super Deluxe,0.78
+203179.0,0,Standard,0.64
+203180.0,0,Standard,0.64
+203181.0,0,Standard,0.64
+203182.0,0,Basic,0.69
+203183.0,0,Standard,0.64
+203184.0,0,Super Deluxe,0.78
+203185.0,0,Standard,0.64
+203186.0,0,Super Deluxe,0.78
+203187.0,0,Basic,0.69
+203189.0,0,Standard,0.64
+203190.0,0,Standard,0.64
+203191.0,0,Standard,0.64
+203194.0,0,Basic,0.69
+203195.0,0,Standard,0.64
+203197.0,0,Standard,0.64
+203198.0,0,Super Deluxe,0.78
+203199.0,0,Basic,0.69
+203200.0,0,Super Deluxe,0.78
+203201.0,0,Standard,0.64
+203202.0,0,Standard,0.64
+203203.0,0,Super Deluxe,0.78
+203204.0,0,Standard,0.64
+203207.0,0,Super Deluxe,0.78
+203208.0,0,Super Deluxe,0.78
+203209.0,0,Super Deluxe,0.78
+203210.0,0,Standard,0.64
+203211.0,0,Standard,0.64
+203212.0,0,Standard,0.64
+203213.0,0,Super Deluxe,0.78
+203214.0,0,Standard,0.64
+203215.0,0,Standard,0.64
+203216.0,0,Super Deluxe,0.78
+203217.0,0,Standard,0.64
+203218.0,0,Basic,0.69
+203219.0,0,Standard,0.64
+203222.0,0,Standard,0.64
+203225.0,0,Super Deluxe,0.78
+203226.0,0,Standard,0.64
+203227.0,0,Super Deluxe,0.78
+203228.0,0,Standard,0.64
+203229.0,0,Standard,0.64
+203230.0,0,Super Deluxe,0.78
+203231.0,0,Standard,0.64
+203232.0,0,Standard,0.64
+203234.0,0,Standard,0.64
+203237.0,0,Super Deluxe,0.78
+203238.0,0,Standard,0.64
+203239.0,0,Standard,0.64
+203243.0,0,Basic,0.69
+203246.0,0,Standard,0.64
+203247.0,0,Super Deluxe,0.78
+203248.0,0,Basic,0.69
+203249.0,0,Standard,0.64
+203250.0,0,Standard,0.64
+203251.0,0,Standard,0.64
+203252.0,0,Super Deluxe,0.78
+203253.0,0,Standard,0.64
+203254.0,0,Basic,0.69
+203255.0,0,Standard,0.64
+203256.0,0,Standard,0.64
+203258.0,0,Standard,0.64
+203259.0,0,Super Deluxe,0.78
+203260.0,0,Standard,0.64
+203261.0,0,Standard,0.64
+203262.0,0,Super Deluxe,0.78
+203263.0,0,Super Deluxe,0.78
+203264.0,0,Standard,0.64
+203265.0,0,Basic,0.69
+203266.0,0,Standard,0.64
+203267.0,0,Super Deluxe,0.78
+203268.0,0,Standard,0.64
+203269.0,0,Standard,0.64
+203270.0,0,Super Deluxe,0.78
+203271.0,0,Super Deluxe,0.78
+203274.0,0,Super Deluxe,0.78
+203276.0,0,Standard,0.64
+203277.0,0,Super Deluxe,0.78
+203278.0,0,Standard,0.64
+203279.0,0,Super Deluxe,0.78
+203281.0,0,Standard,0.64
+203283.0,0,Standard,0.64
+203284.0,0,Super Deluxe,0.78
+203285.0,0,Super Deluxe,0.78
+203287.0,0,Super Deluxe,0.78
+203288.0,0,Standard,0.64
+203289.0,0,Standard,0.64
+203290.0,0,Standard,0.64
+203291.0,0,Standard,0.64
+203292.0,0,Super Deluxe,0.78
+203294.0,0,Super Deluxe,0.78
+203295.0,0,Standard,0.64
+203296.0,0,Super Deluxe,0.78
+203297.0,0,Super Deluxe,0.78
+203298.0,0,Super Deluxe,0.78
+203299.0,0,Standard,0.64
+203300.0,0,Super Deluxe,0.78
+203302.0,0,Standard,0.64
+203303.0,0,Super Deluxe,0.78
+203305.0,0,Basic,0.69
+203306.0,0,Super Deluxe,0.78
+203307.0,0,Super Deluxe,0.78
+203309.0,0,Standard,0.64
+203310.0,0,Standard,0.64
+203311.0,0,Basic,0.69
+203312.0,0,Super Deluxe,0.78
+203313.0,0,Standard,0.64
+203314.0,0,Standard,0.64
+203316.0,0,Standard,0.64
+203317.0,0,Super Deluxe,0.78
+203318.0,0,Standard,0.64
+203319.0,0,Standard,0.64
+203320.0,0,Super Deluxe,0.78
+203321.0,0,Standard,0.64
+203322.0,0,Standard,0.64
+203323.0,0,Standard,0.64
+203324.0,0,Super Deluxe,0.78
+203325.0,0,Standard,0.64
+203326.0,0,Standard,0.64
+203327.0,0,Super Deluxe,0.78
+203328.0,0,Standard,0.64
+203329.0,0,Standard,0.64
+203330.0,0,Super Deluxe,0.78
+203331.0,0,Standard,0.64
+203332.0,0,Standard,0.64
+203333.0,0,Super Deluxe,0.78
+203334.0,0,Standard,0.64
+203335.0,0,Super Deluxe,0.78
+203337.0,0,Super Deluxe,0.78
+203338.0,0,Basic,0.69
+203339.0,0,Standard,0.64
+203340.0,0,Standard,0.64
+203341.0,0,Standard,0.64
+203342.0,0,Standard,0.64
+203343.0,0,Standard,0.64
+203344.0,0,Super Deluxe,0.78
+203345.0,0,Super Deluxe,0.78
+203346.0,0,Super Deluxe,0.78
+203347.0,0,Standard,0.64
+203348.0,0,Standard,0.64
+203349.0,0,Basic,0.69
+203350.0,0,Super Deluxe,0.78
+203351.0,0,Standard,0.64
+203352.0,0,Standard,0.64
+203353.0,0,Super Deluxe,0.78
+203354.0,0,Super Deluxe,0.78
+203356.0,0,Super Deluxe,0.78
+203358.0,0,Basic,0.69
+203360.0,0,Standard,0.64
+203361.0,0,Standard,0.64
+203362.0,0,Standard,0.64
+203363.0,0,Standard,0.64
+203364.0,0,Standard,0.64
+203365.0,0,Super Deluxe,0.78
+203366.0,0,Standard,0.64
+203367.0,0,Standard,0.64
+203368.0,0,Super Deluxe,0.78
+203369.0,0,Standard,0.64
+203370.0,0,Standard,0.64
+203371.0,0,Standard,0.64
+203373.0,0,Super Deluxe,0.78
+203374.0,0,Super Deluxe,0.78
+203375.0,0,Standard,0.64
+203377.0,0,Super Deluxe,0.78
+203378.0,0,Super Deluxe,0.78
+203379.0,0,Standard,0.64
+203380.0,0,Standard,0.64
+203381.0,0,Basic,0.69
+203382.0,0,Super Deluxe,0.78
+203385.0,0,Standard,0.64
+203386.0,0,Standard,0.64
+203387.0,0,Super Deluxe,0.78
+203388.0,0,Standard,0.64
+203389.0,0,Basic,0.69
+203392.0,0,Standard,0.64
+203393.0,0,Standard,0.64
+203394.0,0,Standard,0.64
+203395.0,0,Standard,0.64
+203398.0,0,Basic,0.69
+203399.0,0,Standard,0.64
+203400.0,0,Standard,0.64
+203401.0,0,Super Deluxe,0.78
+203402.0,0,Standard,0.64
+203403.0,0,Standard,0.64
+203404.0,0,Standard,0.64
+203405.0,0,Standard,0.64
+203406.0,0,Basic,0.69
+203407.0,0,Standard,0.64
+203408.0,0,Standard,0.64
+203409.0,0,Super Deluxe,0.78
+203411.0,0,Super Deluxe,0.78
+203412.0,0,Standard,0.64
+203413.0,0,Standard,0.64
+203414.0,0,Super Deluxe,0.78
+203415.0,0,Basic,0.69
+203416.0,0,Super Deluxe,0.78
+203417.0,0,Standard,0.64
+203418.0,0,Standard,0.64
+203420.0,0,Basic,0.69
+203421.0,0,Super Deluxe,0.78
+203422.0,0,Standard,0.64
+203423.0,0,Standard,0.64
+203426.0,0,Super Deluxe,0.78
+203427.0,0,Standard,0.64
+203428.0,0,Standard,0.64
+203430.0,0,Standard,0.64
+203431.0,0,Standard,0.64
+203432.0,0,Standard,0.64
+203433.0,0,Super Deluxe,0.78
+203434.0,0,Standard,0.64
+203435.0,0,Standard,0.64
+203436.0,0,Standard,0.64
+203437.0,0,Standard,0.64
+203438.0,0,Basic,0.69
+203439.0,0,Standard,0.64
+203440.0,0,Standard,0.64
+203442.0,0,Super Deluxe,0.78
+203443.0,0,Basic,0.69
+203444.0,0,Super Deluxe,0.78
+203445.0,0,Super Deluxe,0.78
+203446.0,0,Standard,0.64
+203447.0,0,Super Deluxe,0.78
+203448.0,0,Super Deluxe,0.78
+203449.0,0,Standard,0.64
+203452.0,0,Basic,0.69
+203453.0,0,Standard,0.64
+203454.0,0,Basic,0.69
+203455.0,0,Standard,0.64
+203457.0,0,Standard,0.64
+203458.0,0,Basic,0.69
+203459.0,0,Super Deluxe,0.78
+203461.0,0,Super Deluxe,0.78
+203462.0,0,Standard,0.64
+203463.0,0,Standard,0.64
+203464.0,0,Super Deluxe,0.78
+203466.0,0,Super Deluxe,0.78
+203467.0,0,Super Deluxe,0.78
+203468.0,0,Basic,0.69
+203469.0,0,Standard,0.64
+203470.0,0,Standard,0.64
+203471.0,0,Super Deluxe,0.78
+203472.0,0,Super Deluxe,0.78
+203473.0,0,Standard,0.64
+203474.0,0,Standard,0.64
+203478.0,0,Standard,0.64
+203479.0,0,Super Deluxe,0.78
+203481.0,0,Standard,0.64
+203482.0,0,Standard,0.64
+203484.0,0,Standard,0.64
+203485.0,0,Standard,0.64
+203486.0,0,Super Deluxe,0.78
+203487.0,0,Basic,0.69
+203488.0,0,Standard,0.64
+203489.0,0,Super Deluxe,0.78
+203490.0,0,Super Deluxe,0.78
+203491.0,0,Standard,0.64
+203492.0,0,Standard,0.64
+203493.0,0,Standard,0.64
+203494.0,0,Super Deluxe,0.78
+203495.0,0,Standard,0.64
+203496.0,0,Super Deluxe,0.78
+203497.0,0,Standard,0.64
+203498.0,0,Standard,0.64
+203499.0,0,Basic,0.69
+203503.0,0,Super Deluxe,0.78
+203505.0,0,Super Deluxe,0.78
+203506.0,0,Standard,0.64
+203507.0,0,Standard,0.64
+203508.0,0,Super Deluxe,0.78
+203509.0,0,Standard,0.64
+203510.0,0,Super Deluxe,0.78
+203511.0,0,Standard,0.64
+203513.0,0,Super Deluxe,0.78
+203514.0,0,Standard,0.64
+203515.0,0,Standard,0.64
+203516.0,0,Super Deluxe,0.78
+203517.0,0,Standard,0.64
+203518.0,0,Standard,0.64
+203519.0,0,Standard,0.64
+203520.0,0,Basic,0.69
+203522.0,0,Basic,0.69
+203523.0,0,Standard,0.64
+203524.0,0,Basic,0.69
+203525.0,0,Standard,0.64
+203526.0,0,Standard,0.64
+203528.0,0,Standard,0.64
+203530.0,0,Basic,0.69
+203531.0,0,Super Deluxe,0.78
+203532.0,0,Super Deluxe,0.78
+203533.0,0,Standard,0.64
+203534.0,0,Standard,0.64
+203535.0,0,Standard,0.64
+203536.0,0,Super Deluxe,0.78
+203537.0,0,Standard,0.64
+203538.0,0,Standard,0.64
+203539.0,0,Standard,0.64
+203540.0,0,Basic,0.69
+203541.0,0,Super Deluxe,0.78
+203542.0,0,Standard,0.64
+203543.0,0,Standard,0.64
+203544.0,0,Super Deluxe,0.78
+203545.0,0,Standard,0.64
+203546.0,0,Super Deluxe,0.78
+203547.0,0,Standard,0.64
+203548.0,0,Super Deluxe,0.78
+203549.0,0,Standard,0.64
+203551.0,0,Standard,0.64
+203552.0,0,Super Deluxe,0.78
+203553.0,0,Standard,0.64
+203557.0,0,Standard,0.64
+203558.0,0,Super Deluxe,0.78
+203559.0,0,Super Deluxe,0.78
+203560.0,0,Standard,0.64
+203561.0,0,Standard,0.64
+203562.0,0,Super Deluxe,0.78
+203563.0,0,Standard,0.64
+203564.0,0,Standard,0.64
+203565.0,0,Standard,0.64
+203566.0,0,Super Deluxe,0.78
+203567.0,0,Standard,0.64
+203568.0,0,Standard,0.64
+203569.0,0,Standard,0.64
+203570.0,0,Standard,0.64
+203571.0,0,Super Deluxe,0.78
+203572.0,0,Standard,0.64
+203573.0,0,Standard,0.64
+203574.0,0,Standard,0.64
+203575.0,0,Standard,0.64
+203576.0,0,Standard,0.64
+203577.0,0,Super Deluxe,0.78
+203578.0,0,Super Deluxe,0.78
+203579.0,0,Basic,0.69
+203581.0,0,Super Deluxe,0.78
+203582.0,0,Basic,0.69
+203583.0,0,Super Deluxe,0.78
+203584.0,0,Standard,0.64
+203585.0,0,Super Deluxe,0.78
+203586.0,0,Standard,0.64
+203587.0,0,Standard,0.64
+203588.0,0,Standard,0.64
+203589.0,0,Standard,0.64
+203590.0,0,Standard,0.64
+203591.0,0,Super Deluxe,0.78
+203592.0,0,Standard,0.64
+203593.0,0,Super Deluxe,0.78
+203594.0,0,Standard,0.64
+203595.0,0,Standard,0.64
+203596.0,0,Super Deluxe,0.78
+203598.0,0,Standard,0.64
+203599.0,0,Standard,0.64
+203600.0,0,Standard,0.64
+203601.0,0,Standard,0.64
+203602.0,0,Standard,0.64
+203603.0,0,Standard,0.64
+203604.0,0,Standard,0.64
+203605.0,0,Standard,0.64
+203607.0,0,Super Deluxe,0.78
+203608.0,0,Standard,0.64
+203609.0,0,Standard,0.64
+203610.0,0,Basic,0.69
+203612.0,0,Super Deluxe,0.78
+203613.0,0,Super Deluxe,0.78
+203614.0,0,Super Deluxe,0.78
+203616.0,0,Standard,0.64
+203617.0,0,Standard,0.64
+203618.0,0,Standard,0.64
+203619.0,0,Standard,0.64
+203620.0,0,Basic,0.69
+203621.0,0,Standard,0.64
+203622.0,0,Super Deluxe,0.78
+203623.0,0,Standard,0.64
+203624.0,0,Super Deluxe,0.78
+203625.0,0,Basic,0.69
+203626.0,0,Standard,0.64
+203627.0,0,Standard,0.64
+203628.0,0,Basic,0.69
+203629.0,0,Basic,0.69
+203631.0,0,Standard,0.64
+203632.0,0,Standard,0.64
+203633.0,0,Standard,0.64
+203634.0,0,Standard,0.64
+203635.0,0,Standard,0.64
+203636.0,0,Super Deluxe,0.78
+203637.0,0,Super Deluxe,0.78
+203638.0,0,Basic,0.69
+203639.0,0,Basic,0.69
+203640.0,0,Standard,0.64
+203641.0,0,Super Deluxe,0.78
+203642.0,0,Standard,0.64
+203643.0,0,Standard,0.64
+203644.0,0,Super Deluxe,0.78
+203646.0,0,Super Deluxe,0.78
+203647.0,0,Standard,0.64
+203650.0,0,Super Deluxe,0.78
+203651.0,0,Super Deluxe,0.78
+203652.0,0,Standard,0.64
+203653.0,0,Standard,0.64
+203654.0,0,Super Deluxe,0.78
+203655.0,0,Standard,0.64
+203656.0,0,Super Deluxe,0.78
+203658.0,0,Standard,0.64
+203659.0,0,Super Deluxe,0.78
+203660.0,0,Standard,0.64
+203661.0,0,Super Deluxe,0.78
+203662.0,0,Standard,0.64
+203663.0,0,Super Deluxe,0.78
+203664.0,0,Standard,0.64
+203665.0,0,Standard,0.64
+203668.0,0,Super Deluxe,0.78
+203669.0,0,Basic,0.69
+203670.0,0,Super Deluxe,0.78
+203671.0,0,Super Deluxe,0.78
+203672.0,0,Standard,0.64
+203673.0,0,Standard,0.64
+203674.0,0,Super Deluxe,0.78
+203675.0,0,Standard,0.64
+203676.0,0,Standard,0.64
+203677.0,0,Super Deluxe,0.78
+203678.0,0,Standard,0.64
+203679.0,0,Standard,0.64
+203682.0,0,Super Deluxe,0.78
+203683.0,0,Standard,0.64
+203684.0,0,Standard,0.64
+203685.0,0,Standard,0.64
+203686.0,0,Standard,0.64
+203687.0,0,Standard,0.64
+203688.0,0,Super Deluxe,0.78
+203689.0,0,Super Deluxe,0.78
+203691.0,0,Standard,0.64
+203692.0,0,Super Deluxe,0.78
+203694.0,0,Standard,0.64
+203695.0,0,Standard,0.64
+203696.0,0,Super Deluxe,0.78
+203697.0,0,Standard,0.64
+203698.0,0,Standard,0.64
+203700.0,0,Super Deluxe,0.78
+203702.0,0,Super Deluxe,0.78
+203703.0,0,Standard,0.64
+203704.0,0,Super Deluxe,0.78
+203705.0,0,Standard,0.64
+203707.0,0,Super Deluxe,0.78
+203708.0,0,Standard,0.64
+203709.0,0,Standard,0.64
+203710.0,0,Super Deluxe,0.78
+203711.0,0,Standard,0.64
+203712.0,0,Basic,0.69
+203713.0,0,Super Deluxe,0.78
+203714.0,0,Standard,0.64
+203716.0,0,Super Deluxe,0.78
+203718.0,0,Standard,0.64
+203719.0,0,Standard,0.64
+203720.0,0,Standard,0.64
+203721.0,0,Standard,0.64
+203722.0,0,Standard,0.64
+203724.0,0,Standard,0.64
+203726.0,0,Super Deluxe,0.78
+203727.0,0,Super Deluxe,0.78
+203728.0,0,Standard,0.64
+203729.0,0,Standard,0.64
+203730.0,0,Super Deluxe,0.78
+203731.0,0,Standard,0.64
+203732.0,0,Standard,0.64
+203733.0,0,Super Deluxe,0.78
+203736.0,0,Standard,0.64
+203737.0,0,Super Deluxe,0.78
+203738.0,0,Standard,0.64
+203739.0,0,Standard,0.64
+203740.0,0,Standard,0.64
+203743.0,0,Standard,0.64
+203744.0,0,Standard,0.64
+203745.0,0,Basic,0.69
+203746.0,0,Super Deluxe,0.78
+203747.0,0,Standard,0.64
+203748.0,0,Standard,0.64
+203749.0,0,Standard,0.64
+203750.0,0,Standard,0.64
+203751.0,0,Super Deluxe,0.78
+203752.0,0,Standard,0.64
+203753.0,0,Standard,0.64
+203754.0,0,Basic,0.69
+203755.0,0,Super Deluxe,0.78
+203758.0,0,Standard,0.64
+203759.0,0,Standard,0.64
+203760.0,0,Standard,0.64
+203761.0,0,Super Deluxe,0.78
+203762.0,0,Super Deluxe,0.78
+203763.0,0,Standard,0.64
+203764.0,0,Super Deluxe,0.78
+203765.0,0,Super Deluxe,0.78
+203766.0,0,Standard,0.64
+203767.0,0,Super Deluxe,0.78
+203768.0,0,Standard,0.64
+203769.0,0,Super Deluxe,0.78
+203771.0,0,Basic,0.69
+203772.0,0,Standard,0.64
+203773.0,0,Super Deluxe,0.78
+203774.0,0,Standard,0.64
+203775.0,0,Standard,0.64
+203778.0,0,Super Deluxe,0.78
+203779.0,0,Standard,0.64
+203780.0,0,Super Deluxe,0.78
+203781.0,0,Super Deluxe,0.78
+203784.0,0,Standard,0.64
+203785.0,0,Standard,0.64
+203786.0,0,Standard,0.64
+203787.0,0,Super Deluxe,0.78
+203788.0,0,Standard,0.64
+203789.0,0,Standard,0.64
+203790.0,0,Standard,0.64
+203791.0,0,Standard,0.64
+203792.0,0,Basic,0.69
+203793.0,0,Super Deluxe,0.78
+203794.0,0,Standard,0.64
+203795.0,0,Basic,0.69
+203796.0,0,Standard,0.64
+203799.0,0,Standard,0.64
+203800.0,0,Standard,0.64
+203801.0,0,Standard,0.64
+203802.0,0,Standard,0.64
+203803.0,0,Standard,0.64
+203804.0,0,Super Deluxe,0.78
+203805.0,0,Super Deluxe,0.78
+203806.0,0,Standard,0.64
+203807.0,0,Standard,0.64
+203808.0,0,Standard,0.64
+203810.0,0,Standard,0.64
+203811.0,0,Super Deluxe,0.78
+203812.0,0,Standard,0.64
+203814.0,0,Standard,0.64
+203815.0,0,Standard,0.64
+203816.0,0,Standard,0.64
+203817.0,0,Standard,0.64
+203818.0,0,Basic,0.69
+203820.0,0,Super Deluxe,0.78
+203821.0,0,Standard,0.64
+203822.0,0,Standard,0.64
+203824.0,0,Standard,0.64
+203825.0,0,Super Deluxe,0.78
+203826.0,0,Super Deluxe,0.78
+203827.0,0,Super Deluxe,0.78
+203828.0,0,Standard,0.64
+203829.0,0,Standard,0.64
+203830.0,0,Super Deluxe,0.78
+203831.0,0,Standard,0.64
+203832.0,0,Standard,0.64
+203833.0,0,Standard,0.64
+203835.0,0,Super Deluxe,0.78
+203836.0,0,Standard,0.64
+203837.0,0,Standard,0.64
+203838.0,0,Standard,0.64
+203841.0,0,Standard,0.64
+203842.0,0,Standard,0.64
+203843.0,0,Standard,0.64
+203844.0,0,Super Deluxe,0.78
+203845.0,0,Standard,0.64
+203846.0,0,Super Deluxe,0.78
+203847.0,0,Basic,0.69
+203848.0,0,Standard,0.64
+203849.0,0,Standard,0.64
+203850.0,0,Standard,0.64
+203851.0,0,Standard,0.64
+203852.0,0,Super Deluxe,0.78
+203853.0,0,Standard,0.64
+203854.0,0,Standard,0.64
+203855.0,0,Super Deluxe,0.78
+203856.0,0,Super Deluxe,0.78
+203857.0,0,Super Deluxe,0.78
+203858.0,0,Standard,0.64
+203859.0,0,Super Deluxe,0.78
+203860.0,0,Standard,0.64
+203861.0,0,Super Deluxe,0.78
+203862.0,0,Standard,0.64
+203863.0,0,Standard,0.64
+203864.0,0,Super Deluxe,0.78
+203865.0,0,Standard,0.64
+203866.0,0,Super Deluxe,0.78
+203867.0,0,Super Deluxe,0.78
+203868.0,0,Standard,0.64
+203869.0,0,Standard,0.64
+203870.0,0,Super Deluxe,0.78
+203871.0,0,Super Deluxe,0.78
+203872.0,0,Super Deluxe,0.78
+203873.0,0,Standard,0.64
+203874.0,0,Standard,0.64
+203875.0,0,Standard,0.64
+203876.0,0,Standard,0.64
+203877.0,0,Standard,0.64
+203878.0,0,Super Deluxe,0.78
+203879.0,0,Super Deluxe,0.78
+203880.0,0,Super Deluxe,0.78
+203881.0,0,Standard,0.64
+203883.0,0,Standard,0.64
+203884.0,0,Standard,0.64
+203885.0,0,Standard,0.64
+203887.0,0,Standard,0.64
+203889.0,0,Basic,0.69
+203890.0,0,Standard,0.64
+203891.0,0,Standard,0.64
+203892.0,0,Standard,0.64
+203893.0,0,Super Deluxe,0.78
+203894.0,0,Standard,0.64
+203895.0,0,Standard,0.64
+203897.0,0,Standard,0.64
+203898.0,0,Standard,0.64
+203899.0,0,Super Deluxe,0.78
+203900.0,0,Standard,0.64
+203901.0,0,Super Deluxe,0.78
+203902.0,0,Super Deluxe,0.78
+203903.0,0,Standard,0.64
+203904.0,0,Super Deluxe,0.78
+203906.0,0,Basic,0.69
+203907.0,0,Standard,0.64
+203908.0,0,Super Deluxe,0.78
+203909.0,0,Standard,0.64
+203910.0,0,Standard,0.64
+203911.0,0,Standard,0.64
+203912.0,0,Standard,0.64
+203913.0,0,Standard,0.64
+203915.0,0,Standard,0.64
+203917.0,0,Super Deluxe,0.78
+203918.0,0,Super Deluxe,0.78
+203919.0,0,Super Deluxe,0.78
+203920.0,0,Super Deluxe,0.78
+203921.0,0,Super Deluxe,0.78
+203922.0,0,Standard,0.64
+203923.0,0,Standard,0.64
+203924.0,0,Super Deluxe,0.78
+203925.0,0,Standard,0.64
+203926.0,0,Super Deluxe,0.78
+203927.0,0,Super Deluxe,0.78
+203929.0,0,Standard,0.64
+203930.0,0,Super Deluxe,0.78
+203931.0,0,Super Deluxe,0.78
+203932.0,0,Basic,0.69
+203933.0,0,Super Deluxe,0.78
+203934.0,0,Standard,0.64
+203936.0,0,Standard,0.64
+203937.0,0,Super Deluxe,0.78
+203939.0,0,Standard,0.64
+203941.0,0,Standard,0.64
+203942.0,0,Standard,0.64
+203943.0,0,Standard,0.64
+203944.0,0,Super Deluxe,0.78
+203945.0,0,Standard,0.64
+203946.0,0,Super Deluxe,0.78
+203949.0,0,Super Deluxe,0.78
+203951.0,0,Super Deluxe,0.78
+203952.0,0,Super Deluxe,0.78
+203953.0,0,Standard,0.64
+203954.0,0,Super Deluxe,0.78
+203955.0,0,Super Deluxe,0.78
+203957.0,0,Standard,0.64
+203958.0,0,Standard,0.64
+203960.0,0,Standard,0.64
+203961.0,0,Super Deluxe,0.78
+203962.0,0,Standard,0.64
+203963.0,0,Super Deluxe,0.78
+203966.0,0,Standard,0.64
+203967.0,0,Standard,0.64
+203968.0,0,Standard,0.64
+203969.0,0,Standard,0.64
+203970.0,0,Standard,0.64
+203971.0,0,Super Deluxe,0.78
+203972.0,0,Standard,0.64
+203973.0,0,Standard,0.64
+203974.0,0,Standard,0.64
+203975.0,0,Standard,0.64
+203976.0,0,Standard,0.64
+203977.0,0,Standard,0.64
+203978.0,0,Standard,0.64
+203979.0,0,Basic,0.69
+203980.0,0,Standard,0.64
+203981.0,0,Standard,0.64
+203982.0,0,Super Deluxe,0.78
+203984.0,0,Standard,0.64
+203985.0,0,Super Deluxe,0.78
+203986.0,0,Super Deluxe,0.78
+203987.0,0,Standard,0.64
+203988.0,0,Super Deluxe,0.78
+203989.0,0,Standard,0.64
+203990.0,0,Standard,0.64
+203991.0,0,Standard,0.64
+203992.0,0,Standard,0.64
+203993.0,0,Standard,0.64
+203994.0,0,Standard,0.64
+203995.0,0,Super Deluxe,0.78
+203996.0,0,Standard,0.64
+203997.0,0,Standard,0.64
+203998.0,0,Standard,0.64
+203999.0,0,Standard,0.64
+204000.0,0,Super Deluxe,0.78
+204001.0,0,Super Deluxe,0.78
+204002.0,0,Standard,0.64
+204004.0,0,Basic,0.69
+204005.0,0,Standard,0.64
+204006.0,0,Standard,0.64
+204007.0,0,Standard,0.64
+204008.0,0,Standard,0.64
+204009.0,0,Standard,0.64
+204010.0,0,Standard,0.64
+204011.0,0,Standard,0.64
+204012.0,0,Basic,0.69
+204013.0,0,Standard,0.64
+204015.0,0,Super Deluxe,0.78
+204017.0,0,Standard,0.64
+204018.0,0,Standard,0.64
+204019.0,0,Standard,0.64
+204020.0,0,Standard,0.64
+204022.0,0,Super Deluxe,0.78
+204023.0,0,Super Deluxe,0.78
+204024.0,0,Standard,0.64
+204026.0,0,Basic,0.69
+204027.0,0,Super Deluxe,0.78
+204028.0,0,Standard,0.64
+204029.0,0,Standard,0.64
+204030.0,0,Standard,0.64
+204031.0,0,Standard,0.64
+204032.0,0,Super Deluxe,0.78
+204033.0,0,Basic,0.69
+204034.0,0,Super Deluxe,0.78
+204035.0,0,Standard,0.64
+204037.0,0,Standard,0.64
+204039.0,0,Super Deluxe,0.78
+204042.0,0,Super Deluxe,0.78
+204043.0,0,Standard,0.64
+204044.0,0,Super Deluxe,0.78
+204045.0,0,Standard,0.64
+204047.0,0,Standard,0.64
+204048.0,0,Super Deluxe,0.78
+204049.0,0,Standard,0.64
+204051.0,0,Standard,0.64
+204052.0,0,Standard,0.64
+204053.0,0,Standard,0.64
+204055.0,0,Super Deluxe,0.78
+204056.0,0,Standard,0.64
+204057.0,0,Super Deluxe,0.78
+204058.0,0,Standard,0.64
+204059.0,0,Super Deluxe,0.78
+204060.0,0,Super Deluxe,0.78
+204061.0,0,Basic,0.69
+204062.0,0,Super Deluxe,0.78
+204063.0,0,Super Deluxe,0.78
+204064.0,0,Standard,0.64
+204065.0,0,Standard,0.64
+204066.0,0,Standard,0.64
+204067.0,0,Standard,0.64
+204068.0,0,Standard,0.64
+204069.0,0,Standard,0.64
+204070.0,0,Standard,0.64
+204071.0,0,Super Deluxe,0.78
+204072.0,0,Standard,0.64
+204073.0,0,Super Deluxe,0.78
+204074.0,0,Super Deluxe,0.78
+204075.0,0,Super Deluxe,0.78
+204076.0,0,Super Deluxe,0.78
+204077.0,0,Standard,0.64
+204078.0,0,Super Deluxe,0.78
+204079.0,0,Standard,0.64
+204080.0,0,Super Deluxe,0.78
+204081.0,0,Standard,0.64
+204082.0,0,Standard,0.64
+204083.0,0,Super Deluxe,0.78
+204084.0,0,Super Deluxe,0.78
+204086.0,0,Super Deluxe,0.78
+204087.0,0,Standard,0.64
+204088.0,0,Standard,0.64
+204089.0,0,Super Deluxe,0.78
+204090.0,0,Super Deluxe,0.78
+204092.0,0,Standard,0.64
+204093.0,0,Super Deluxe,0.78
+204094.0,0,Super Deluxe,0.78
+204095.0,0,Super Deluxe,0.78
+204097.0,0,Super Deluxe,0.78
+204098.0,0,Standard,0.64
+204099.0,0,Super Deluxe,0.78
+204100.0,0,Standard,0.64
+204101.0,0,Standard,0.64
+204102.0,0,Standard,0.64
+204103.0,0,Basic,0.69
+204104.0,0,Standard,0.64
+204105.0,0,Super Deluxe,0.78
+204107.0,0,Super Deluxe,0.78
+204108.0,0,Basic,0.69
+204109.0,0,Super Deluxe,0.78
+204110.0,0,Standard,0.64
+204111.0,0,Standard,0.64
+204112.0,0,Standard,0.64
+204113.0,0,Standard,0.64
+204114.0,0,Standard,0.64
+204115.0,0,Standard,0.64
+204116.0,0,Super Deluxe,0.78
+204117.0,0,Standard,0.64
+204120.0,0,Super Deluxe,0.78
+204121.0,0,Super Deluxe,0.78
+204122.0,0,Standard,0.64
+204123.0,0,Standard,0.64
+204125.0,0,Standard,0.64
+204126.0,0,Standard,0.64
+204127.0,0,Standard,0.64
+204129.0,0,Standard,0.64
+204132.0,0,Standard,0.64
+204133.0,0,Standard,0.64
+204134.0,0,Standard,0.64
+204135.0,0,Super Deluxe,0.78
+204136.0,0,Standard,0.64
+204137.0,0,Standard,0.64
+204138.0,0,Standard,0.64
+204139.0,0,Super Deluxe,0.78
+204140.0,0,Super Deluxe,0.78
+204141.0,0,Standard,0.64
+204142.0,0,Standard,0.64
+204144.0,0,Super Deluxe,0.78
+204145.0,0,Standard,0.64
+204146.0,0,Super Deluxe,0.78
+204147.0,0,Standard,0.64
+204149.0,0,Basic,0.69
+204151.0,0,Standard,0.64
+204152.0,0,Super Deluxe,0.78
+204154.0,0,Super Deluxe,0.78
+204155.0,0,Standard,0.64
+204156.0,0,Standard,0.64
+204157.0,0,Standard,0.64
+204158.0,0,Standard,0.64
+204159.0,0,Standard,0.64
+204160.0,0,Super Deluxe,0.78
+204161.0,0,Standard,0.64
+204162.0,0,Super Deluxe,0.78
+204163.0,0,Standard,0.64
+204165.0,0,Standard,0.64
+204166.0,0,Super Deluxe,0.78
+204167.0,0,Standard,0.64
+204168.0,0,Standard,0.64
+204169.0,0,Standard,0.64
+204170.0,0,Super Deluxe,0.78
+204171.0,0,Standard,0.64
+204172.0,0,Super Deluxe,0.78
+204174.0,0,Super Deluxe,0.78
+204175.0,0,Standard,0.64
+204176.0,0,Standard,0.64
+204177.0,0,Basic,0.69
+204179.0,0,Standard,0.64
+204180.0,0,Standard,0.64
+204181.0,0,Standard,0.64
+204182.0,0,Basic,0.69
+204183.0,0,Super Deluxe,0.78
+204184.0,0,Standard,0.64
+204186.0,0,Super Deluxe,0.78
+204187.0,0,Standard,0.64
+204188.0,0,Super Deluxe,0.78
+204189.0,0,Standard,0.64
+204190.0,0,Standard,0.64
+204191.0,0,Standard,0.64
+204192.0,0,Standard,0.64
+204193.0,0,Standard,0.64
+204194.0,0,Basic,0.69
+204195.0,0,Standard,0.64
+204196.0,0,Standard,0.64
+204197.0,0,Standard,0.64
+204198.0,0,Standard,0.64
+204199.0,0,Super Deluxe,0.78
+204201.0,0,Standard,0.64
+204203.0,0,Super Deluxe,0.78
+204204.0,0,Standard,0.64
+204205.0,0,Standard,0.64
+204206.0,0,Super Deluxe,0.78
+204208.0,0,Super Deluxe,0.78
+204209.0,0,Basic,0.69
+204211.0,0,Standard,0.64
+204212.0,0,Super Deluxe,0.78
+204213.0,0,Standard,0.64
+204214.0,0,Basic,0.69
+204215.0,0,Super Deluxe,0.78
+204216.0,0,Standard,0.64
+204217.0,0,Standard,0.64
+204218.0,0,Standard,0.64
+204219.0,0,Standard,0.64
+204220.0,0,Standard,0.64
+204221.0,0,Standard,0.64
+204222.0,0,Standard,0.64
+204223.0,0,Super Deluxe,0.78
+204224.0,0,Standard,0.64
+204225.0,0,Standard,0.64
+204226.0,0,Super Deluxe,0.78
+204227.0,0,Standard,0.64
+204228.0,0,Basic,0.69
+204229.0,0,Super Deluxe,0.78
+204230.0,0,Basic,0.69
+204232.0,0,Super Deluxe,0.78
+204233.0,0,Standard,0.64
+204234.0,0,Standard,0.64
+204235.0,0,Standard,0.64
+204236.0,0,Standard,0.64
+204238.0,0,Standard,0.64
+204239.0,0,Standard,0.64
+204240.0,0,Standard,0.64
+204242.0,0,Standard,0.64
+204243.0,0,Standard,0.64
+204244.0,0,Standard,0.64
+204245.0,0,Standard,0.64
+204246.0,0,Standard,0.64
+204247.0,0,Standard,0.64
+204248.0,0,Standard,0.64
+204249.0,0,Standard,0.64
+204251.0,0,Super Deluxe,0.78
+204252.0,0,Standard,0.64
+204253.0,0,Standard,0.64
+204254.0,0,Standard,0.64
+204255.0,0,Standard,0.64
+204256.0,0,Standard,0.64
+204257.0,0,Standard,0.64
+204258.0,0,Standard,0.64
+204259.0,0,Super Deluxe,0.78
+204260.0,0,Standard,0.64
+204261.0,0,Standard,0.64
+204262.0,0,Basic,0.69
+204263.0,0,Standard,0.64
+204264.0,0,Super Deluxe,0.78
+204265.0,0,Super Deluxe,0.78
+204266.0,0,Standard,0.64
+204267.0,0,Standard,0.64
+204268.0,0,Standard,0.64
+204269.0,0,Standard,0.64
+204270.0,0,Standard,0.64
+204272.0,0,Standard,0.64
+204273.0,0,Standard,0.64
+204274.0,0,Standard,0.64
+204275.0,0,Super Deluxe,0.78
+204276.0,0,Super Deluxe,0.78
+204278.0,0,Super Deluxe,0.78
+204279.0,0,Standard,0.64
+204281.0,0,Standard,0.64
+204283.0,0,Super Deluxe,0.78
+204285.0,0,Super Deluxe,0.78
+204286.0,0,Standard,0.64
+204287.0,0,Super Deluxe,0.78
+204288.0,0,Standard,0.64
+204289.0,0,Standard,0.64
+204290.0,0,Standard,0.64
+204291.0,0,Super Deluxe,0.78
+204293.0,0,Basic,0.69
+204294.0,0,Standard,0.64
+204295.0,0,Super Deluxe,0.78
+204297.0,0,Super Deluxe,0.78
+204298.0,0,Standard,0.64
+204300.0,0,Super Deluxe,0.78
+204301.0,0,Standard,0.64
+204302.0,0,Super Deluxe,0.78
+204303.0,0,Standard,0.64
+204304.0,0,Basic,0.69
+204305.0,0,Standard,0.64
+204306.0,0,Standard,0.64
+204307.0,0,Standard,0.64
+204308.0,0,Standard,0.64
+204309.0,0,Super Deluxe,0.78
+204310.0,0,Standard,0.64
+204311.0,0,Standard,0.64
+204312.0,0,Standard,0.64
+204313.0,0,Super Deluxe,0.78
+204314.0,0,Standard,0.64
+204315.0,0,Basic,0.69
+204316.0,0,Standard,0.64
+204317.0,0,Standard,0.64
+204318.0,0,Standard,0.64
+204320.0,0,Standard,0.64
+204321.0,0,Super Deluxe,0.78
+204322.0,0,Basic,0.69
+204323.0,0,Standard,0.64
+204324.0,0,Standard,0.64
+204325.0,0,Standard,0.64
+204326.0,0,Standard,0.64
+204327.0,0,Standard,0.64
+204330.0,0,Super Deluxe,0.78
+204331.0,0,Standard,0.64
+204332.0,0,Super Deluxe,0.78
+204333.0,0,Super Deluxe,0.78
+204334.0,0,Standard,0.64
+204337.0,0,Standard,0.64
+204338.0,0,Basic,0.69
+204339.0,0,Basic,0.69
+204340.0,0,Super Deluxe,0.78
+204341.0,0,Standard,0.64
+204342.0,0,Standard,0.64
+204343.0,0,Basic,0.69
+204344.0,0,Super Deluxe,0.78
+204345.0,0,Standard,0.64
+204346.0,0,Super Deluxe,0.78
+204347.0,0,Standard,0.64
+204348.0,0,Standard,0.64
+204351.0,0,Super Deluxe,0.78
+204352.0,0,Standard,0.64
+204355.0,0,Super Deluxe,0.78
+204356.0,0,Standard,0.64
+204358.0,0,Standard,0.64
+204359.0,0,Basic,0.69
+204360.0,0,Standard,0.64
+204361.0,0,Standard,0.64
+204362.0,0,Basic,0.69
+204363.0,0,Super Deluxe,0.78
+204364.0,0,Standard,0.64
+204365.0,0,Standard,0.64
+204366.0,0,Standard,0.64
+204368.0,0,Standard,0.64
+204369.0,0,Basic,0.69
+204370.0,0,Standard,0.64
+204372.0,0,Standard,0.64
+204373.0,0,Standard,0.64
+204374.0,0,Standard,0.64
+204375.0,0,Standard,0.64
+204376.0,0,Standard,0.64
+204378.0,0,Standard,0.64
+204379.0,0,Standard,0.64
+204380.0,0,Basic,0.69
+204381.0,0,Standard,0.64
+204382.0,0,Standard,0.64
+204384.0,0,Super Deluxe,0.78
+204385.0,0,Standard,0.64
+204386.0,0,Standard,0.64
+204387.0,0,Standard,0.64
+204388.0,0,Super Deluxe,0.78
+204389.0,0,Standard,0.64
+204390.0,0,Super Deluxe,0.78
+204391.0,0,Standard,0.64
+204392.0,0,Super Deluxe,0.78
+204395.0,0,Super Deluxe,0.78
+204397.0,0,Standard,0.64
+204398.0,0,Standard,0.64
+204399.0,0,Super Deluxe,0.78
+204400.0,0,Standard,0.64
+204401.0,0,Super Deluxe,0.78
+204402.0,0,Standard,0.64
+204403.0,0,Basic,0.69
+204404.0,0,Super Deluxe,0.78
+204405.0,0,Standard,0.64
+204406.0,0,Basic,0.69
+204407.0,0,Standard,0.64
+204408.0,0,Super Deluxe,0.78
+204410.0,0,Super Deluxe,0.78
+204411.0,0,Standard,0.64
+204412.0,0,Super Deluxe,0.78
+204413.0,0,Standard,0.64
+204414.0,0,Standard,0.64
+204415.0,0,Super Deluxe,0.78
+204416.0,0,Standard,0.64
+204417.0,0,Super Deluxe,0.78
+204419.0,0,Super Deluxe,0.78
+204420.0,0,Standard,0.64
+204421.0,0,Standard,0.64
+204422.0,0,Standard,0.64
+204423.0,0,Standard,0.64
+204424.0,0,Standard,0.64
+204425.0,0,Standard,0.64
+204426.0,0,Super Deluxe,0.78
+204429.0,0,Super Deluxe,0.78
+204430.0,0,Super Deluxe,0.78
+204431.0,0,Standard,0.64
+204432.0,0,Standard,0.64
+204433.0,0,Super Deluxe,0.78
+204434.0,0,Standard,0.64
+204435.0,0,Standard,0.64
+204436.0,0,Super Deluxe,0.78
+204437.0,0,Super Deluxe,0.78
+204438.0,0,Standard,0.64
+204440.0,0,Standard,0.64
+204441.0,0,Standard,0.64
+204443.0,0,Standard,0.64
+204444.0,0,Standard,0.64
+204445.0,0,Standard,0.64
+204446.0,0,Standard,0.64
+204447.0,0,Standard,0.64
+204448.0,0,Basic,0.69
+204449.0,0,Standard,0.64
+204450.0,0,Standard,0.64
+204451.0,0,Standard,0.64
+204452.0,0,Standard,0.64
+204453.0,0,Super Deluxe,0.78
+204455.0,0,Standard,0.64
+204456.0,0,Standard,0.64
+204457.0,0,Super Deluxe,0.78
+204458.0,0,Basic,0.69
+204459.0,0,Standard,0.64
+204460.0,0,Super Deluxe,0.78
+204462.0,0,Standard,0.64
+204463.0,0,Standard,0.64
+204464.0,0,Super Deluxe,0.78
+204465.0,0,Standard,0.64
+204466.0,0,Basic,0.69
+204467.0,0,Super Deluxe,0.78
+204468.0,0,Standard,0.64
+204469.0,0,Super Deluxe,0.78
+204470.0,0,Standard,0.64
+204471.0,0,Standard,0.64
+204472.0,0,Standard,0.64
+204473.0,0,Super Deluxe,0.78
+204474.0,0,Standard,0.64
+204475.0,0,Basic,0.69
+204477.0,0,Standard,0.64
+204478.0,0,Standard,0.64
+204479.0,0,Super Deluxe,0.78
+204481.0,0,Standard,0.64
+204483.0,0,Standard,0.64
+204484.0,0,Super Deluxe,0.78
+204485.0,0,Super Deluxe,0.78
+204486.0,0,Standard,0.64
+204488.0,0,Super Deluxe,0.78
+204489.0,0,Standard,0.64
+204490.0,0,Standard,0.64
+204491.0,0,Super Deluxe,0.78
+204492.0,0,Standard,0.64
+204493.0,0,Super Deluxe,0.78
+204494.0,0,Super Deluxe,0.78
+204495.0,0,Super Deluxe,0.78
+204496.0,0,Standard,0.64
+204497.0,0,Standard,0.64
+204498.0,0,Standard,0.64
+204500.0,0,Super Deluxe,0.78
+204501.0,0,Standard,0.64
+204502.0,0,Basic,0.69
+204504.0,0,Standard,0.64
+204506.0,0,Basic,0.69
+204507.0,0,Standard,0.64
+204508.0,0,Super Deluxe,0.78
+204510.0,0,Super Deluxe,0.78
+204511.0,0,Standard,0.64
+204513.0,0,Super Deluxe,0.78
+204514.0,0,Standard,0.64
+204515.0,0,Standard,0.64
+204516.0,0,Standard,0.64
+204517.0,0,Super Deluxe,0.78
+204518.0,0,Standard,0.64
+204519.0,0,Standard,0.64
+204520.0,0,Super Deluxe,0.78
+204523.0,0,Basic,0.69
+204524.0,0,Standard,0.64
+204525.0,0,Standard,0.64
+204526.0,0,Standard,0.64
+204527.0,0,Super Deluxe,0.78
+204529.0,0,Super Deluxe,0.78
+204530.0,0,Basic,0.69
+204531.0,0,Standard,0.64
+204532.0,0,Super Deluxe,0.78
+204533.0,0,Standard,0.64
+204534.0,0,Super Deluxe,0.78
+204535.0,0,Standard,0.64
+204536.0,0,Standard,0.64
+204537.0,0,Super Deluxe,0.78
+204538.0,0,Standard,0.64
+204539.0,0,Standard,0.64
+204540.0,0,Standard,0.64
+204541.0,0,Basic,0.69
+204542.0,0,Standard,0.64
+204543.0,0,Super Deluxe,0.78
+204544.0,0,Standard,0.64
+204545.0,0,Super Deluxe,0.78
+204546.0,0,Super Deluxe,0.78
+204547.0,0,Super Deluxe,0.78
+204548.0,0,Standard,0.64
+204549.0,0,Standard,0.64
+204551.0,0,Super Deluxe,0.78
+204552.0,0,Standard,0.64
+204553.0,0,Super Deluxe,0.78
+204554.0,0,Super Deluxe,0.78
+204555.0,0,Standard,0.64
+204556.0,0,Super Deluxe,0.78
+204557.0,0,Standard,0.64
+204558.0,0,Super Deluxe,0.78
+204560.0,0,Basic,0.69
+204561.0,0,Standard,0.64
+204562.0,0,Super Deluxe,0.78
+204563.0,0,Basic,0.69
+204564.0,0,Standard,0.64
+204565.0,0,Standard,0.64
+204566.0,0,Standard,0.64
+204567.0,0,Basic,0.69
+204568.0,0,Standard,0.64
+204569.0,0,Super Deluxe,0.78
+204571.0,0,Super Deluxe,0.78
+204572.0,0,Super Deluxe,0.78
+204573.0,0,Standard,0.64
+204575.0,0,Standard,0.64
+204578.0,0,Standard,0.64
+204579.0,0,Super Deluxe,0.78
+204582.0,0,Super Deluxe,0.78
+204584.0,0,Super Deluxe,0.78
+204585.0,0,Super Deluxe,0.78
+204586.0,0,Standard,0.64
+204587.0,0,Super Deluxe,0.78
+204588.0,0,Standard,0.64
+204589.0,0,Super Deluxe,0.78
+204590.0,0,Standard,0.64
+204591.0,0,Standard,0.64
+204592.0,0,Super Deluxe,0.78
+204593.0,0,Standard,0.64
+204594.0,0,Super Deluxe,0.78
+204595.0,0,Standard,0.64
+204596.0,0,Super Deluxe,0.78
+204598.0,0,Standard,0.64
+204599.0,0,Standard,0.64
+204600.0,0,Super Deluxe,0.78
+204601.0,0,Super Deluxe,0.78
+204604.0,0,Standard,0.64
+204605.0,0,Super Deluxe,0.78
+204606.0,0,Standard,0.64
+204608.0,0,Standard,0.64
+204610.0,0,Standard,0.64
+204611.0,0,Super Deluxe,0.78
+204612.0,0,Standard,0.64
+204613.0,0,Basic,0.69
+204615.0,0,Basic,0.69
+204616.0,0,Standard,0.64
+204617.0,0,Standard,0.64
+204618.0,0,Standard,0.64
+204619.0,0,Standard,0.64
+204621.0,0,Standard,0.64
+204622.0,0,Standard,0.64
+204624.0,0,Basic,0.69
+204626.0,0,Super Deluxe,0.78
+204627.0,0,Super Deluxe,0.78
+204628.0,0,Basic,0.69
+204629.0,0,Standard,0.64
+204630.0,0,Standard,0.64
+204631.0,0,Super Deluxe,0.78
+204632.0,0,Standard,0.64
+204633.0,0,Standard,0.64
+204635.0,0,Basic,0.69
+204636.0,0,Super Deluxe,0.78
+204637.0,0,Standard,0.64
+204638.0,0,Standard,0.64
+204640.0,0,Standard,0.64
+204641.0,0,Super Deluxe,0.78
+204642.0,0,Standard,0.64
+204643.0,0,Standard,0.64
+204644.0,0,Standard,0.64
+204647.0,0,Standard,0.64
+204648.0,0,Super Deluxe,0.78
+204649.0,0,Standard,0.64
+204650.0,0,Standard,0.64
+204651.0,0,Standard,0.64
+204652.0,0,Basic,0.69
+204653.0,0,Standard,0.64
+204654.0,0,Super Deluxe,0.78
+204655.0,0,Standard,0.64
+204656.0,0,Super Deluxe,0.78
+204657.0,0,Basic,0.69
+204659.0,0,Standard,0.64
+204660.0,0,Standard,0.64
+204661.0,0,Standard,0.64
+204664.0,0,Basic,0.69
+204665.0,0,Standard,0.64
+204667.0,0,Standard,0.64
+204668.0,0,Super Deluxe,0.78
+204669.0,0,Basic,0.69
+204670.0,0,Super Deluxe,0.78
+204671.0,0,Standard,0.64
+204672.0,0,Standard,0.64
+204673.0,0,Super Deluxe,0.78
+204674.0,0,Standard,0.64
+204677.0,0,Super Deluxe,0.78
+204678.0,0,Super Deluxe,0.78
+204679.0,0,Super Deluxe,0.78
+204680.0,0,Standard,0.64
+204681.0,0,Standard,0.64
+204682.0,0,Standard,0.64
+204683.0,0,Super Deluxe,0.78
+204684.0,0,Standard,0.64
+204685.0,0,Standard,0.64
+204686.0,0,Super Deluxe,0.78
+204687.0,0,Standard,0.64
+204688.0,0,Basic,0.69
+204689.0,0,Standard,0.64
+204692.0,0,Standard,0.64
+204695.0,0,Super Deluxe,0.78
+204696.0,0,Standard,0.64
+204697.0,0,Super Deluxe,0.78
+204698.0,0,Standard,0.64
+204699.0,0,Standard,0.64
+204700.0,0,Super Deluxe,0.78
+204701.0,0,Standard,0.64
+204702.0,0,Standard,0.64
+204704.0,0,Standard,0.64
+204707.0,0,Super Deluxe,0.78
+204708.0,0,Standard,0.64
+204709.0,0,Standard,0.64
+204713.0,0,Basic,0.69
+204716.0,0,Standard,0.64
+204717.0,0,Super Deluxe,0.78
+204718.0,0,Basic,0.69
+204719.0,0,Standard,0.64
+204720.0,0,Standard,0.64
+204721.0,0,Standard,0.64
+204722.0,0,Super Deluxe,0.78
+204723.0,0,Standard,0.64
+204724.0,0,Basic,0.69
+204725.0,0,Standard,0.64
+204726.0,0,Standard,0.64
+204728.0,0,Standard,0.64
+204729.0,0,Super Deluxe,0.78
+204730.0,0,Standard,0.64
+204731.0,0,Standard,0.64
+204732.0,0,Super Deluxe,0.78
+204733.0,0,Super Deluxe,0.78
+204734.0,0,Standard,0.64
+204735.0,0,Basic,0.69
+204736.0,0,Standard,0.64
+204737.0,0,Super Deluxe,0.78
+204738.0,0,Standard,0.64
+204739.0,0,Standard,0.64
+204740.0,0,Super Deluxe,0.78
+204741.0,0,Super Deluxe,0.78
+204744.0,0,Super Deluxe,0.78
+204746.0,0,Standard,0.64
+204747.0,0,Super Deluxe,0.78
+204748.0,0,Standard,0.64
+204749.0,0,Super Deluxe,0.78
+204751.0,0,Standard,0.64
+204753.0,0,Standard,0.64
+204754.0,0,Super Deluxe,0.78
+204755.0,0,Super Deluxe,0.78
+204757.0,0,Super Deluxe,0.78
+204758.0,0,Standard,0.64
+204759.0,0,Standard,0.64
+204760.0,0,Standard,0.64
+204761.0,0,Standard,0.64
+204762.0,0,Super Deluxe,0.78
+204764.0,0,Super Deluxe,0.78
+204765.0,0,Standard,0.64
+204766.0,0,Super Deluxe,0.78
+204767.0,0,Super Deluxe,0.78
+204768.0,0,Super Deluxe,0.78
+204769.0,0,Standard,0.64
+204770.0,0,Super Deluxe,0.78
+204772.0,0,Standard,0.64
+204773.0,0,Super Deluxe,0.78
+204775.0,0,Basic,0.69
+204776.0,0,Super Deluxe,0.78
+204777.0,0,Super Deluxe,0.78
+204779.0,0,Standard,0.64
+204780.0,0,Standard,0.64
+204781.0,0,Basic,0.69
+204782.0,0,Super Deluxe,0.78
+204783.0,0,Standard,0.64
+204784.0,0,Standard,0.64
+204786.0,0,Standard,0.64
+204787.0,0,Super Deluxe,0.78
+204788.0,0,Standard,0.64
+204789.0,0,Standard,0.64
+204790.0,0,Super Deluxe,0.78
+204791.0,0,Standard,0.64
+204792.0,0,Standard,0.64
+204793.0,0,Standard,0.64
+204794.0,0,Super Deluxe,0.78
+204795.0,0,Standard,0.64
+204796.0,0,Standard,0.64
+204797.0,0,Super Deluxe,0.78
+204798.0,0,Standard,0.64
+204799.0,0,Standard,0.64
+204800.0,0,Super Deluxe,0.78
+204801.0,0,Standard,0.64
+204802.0,0,Standard,0.64
+204803.0,0,Super Deluxe,0.78
+204804.0,0,Standard,0.64
+204805.0,0,Super Deluxe,0.78
+204807.0,0,Super Deluxe,0.78
+204808.0,0,Basic,0.69
+204809.0,0,Standard,0.64
+204810.0,0,Standard,0.64
+204811.0,0,Standard,0.64
+204812.0,0,Standard,0.64
+204813.0,0,Standard,0.64
+204814.0,0,Super Deluxe,0.78
